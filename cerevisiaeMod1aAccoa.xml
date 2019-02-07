@@ -36,6 +36,10 @@
       <parameter constant="true" id="R_BCOAhydb_upper_bound" sboTerm="SBO:0000625" units="mmol_per_gDW_per_hr" value="1000"/>
       <parameter constant="true" id="R_BCOAhydb_lower_bound" sboTerm="SBO:0000625" units="mmol_per_gDW_per_hr" value="-1000"/>
       <parameter constant="true" id="R_DM_but_c_upper_bound" sboTerm="SBO:0000625" units="mmol_per_gDW_per_hr" value="1000"/>
+      <parameter constant="true" id="R_ACITL_upper_bound" sboTerm="SBO:0000625" units="mmol_per_gDW_per_hr" value="1000"/>
+      <parameter constant="true" id="R_ACITL_lower_bound" sboTerm="SBO:0000625" units="mmol_per_gDW_per_hr" value="-1000"/>
+      <parameter constant="true" id="R_ME2_upper_bound" sboTerm="SBO:0000625" units="mmol_per_gDW_per_hr" value="1000"/>
+      <parameter constant="true" id="R_ME2_lower_bound" sboTerm="SBO:0000625" units="mmol_per_gDW_per_hr" value="-1000"/>
     </listOfParameters>
     <listOfCompartments>
       <compartment constant="true" id="c" name="cytosol"/>
@@ -2191,6 +2195,8 @@
       <fbc:geneProduct fbc:id="G_phaJ" fbc:label="phaJ" fbc:name="phaJ"/>
       <fbc:geneProduct fbc:id="G_Ter" fbc:label="Ter" fbc:name="Ter"/>
       <fbc:geneProduct fbc:id="G_TesB" fbc:label="TesB" fbc:name="TesB"/>
+      <fbc:geneProduct fbc:id="G_Acly" fbc:label="Acly" fbc:name="Acly"/>
+      <fbc:geneProduct fbc:id="G_RtME" fbc:label="RtME" fbc:name="RtME"/>
     </fbc:listOfGeneProducts>
     <listOfReactions>
       <reaction fast="false" id="R_13BGH" reversible="false" name="Endo 1 3 beta glucan glucohydrase" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_0_bound">
@@ -24712,6 +24718,36 @@
         <listOfReactants>
           <speciesReference constant="true" species="M_but_c" stoichiometry="1"/>
         </listOfReactants>
+      </reaction>
+      <reaction fast="false" id="R_ACITL" reversible="true" name="ATP:cytrate lyase" fbc:upperFluxBound="R_ACITL_upper_bound" fbc:lowerFluxBound="R_ACITL_lower_bound">
+        <listOfReactants>
+          <speciesReference constant="true" species="M_atp_c" stoichiometry="1"/>
+          <speciesReference constant="true" species="M_cit_c" stoichiometry="1"/>
+          <speciesReference constant="true" species="M_coa_c" stoichiometry="1"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference constant="true" species="M_accoa_c" stoichiometry="1"/>
+          <speciesReference constant="true" species="M_adp_c" stoichiometry="1"/>
+          <speciesReference constant="true" species="M_oaa_c" stoichiometry="1"/>
+          <speciesReference constant="true" species="M_pi_c" stoichiometry="1"/>
+        </listOfProducts>
+        <fbc:geneProductAssociation>
+          <fbc:geneProductRef fbc:geneProduct="G_Acly"/>
+        </fbc:geneProductAssociation>
+      </reaction>
+      <reaction fast="false" id="R_ME2" reversible="true" name="Malic enzyme" fbc:upperFluxBound="R_ME2_upper_bound" fbc:lowerFluxBound="R_ME2_lower_bound">
+        <listOfReactants>
+          <speciesReference constant="true" species="M_mal__L_c" stoichiometry="1"/>
+          <speciesReference constant="true" species="M_nadp_c" stoichiometry="1"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference constant="true" species="M_co2_c" stoichiometry="1"/>
+          <speciesReference constant="true" species="M_nadph_c" stoichiometry="1"/>
+          <speciesReference constant="true" species="M_pyr_c" stoichiometry="1"/>
+        </listOfProducts>
+        <fbc:geneProductAssociation>
+          <fbc:geneProductRef fbc:geneProduct="G_RtME"/>
+        </fbc:geneProductAssociation>
       </reaction>
     </listOfReactions>
   </model>

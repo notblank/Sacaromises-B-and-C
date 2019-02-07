@@ -8226,6 +8226,16 @@
 }
 },
 {
+"id":"DM_but_c",
+"name":"Butyrate (n-C4:0) demand",
+"metabolites":{
+"but_c":-1
+},
+"lower_bound":0,
+"upper_bound":1000.0,
+"gene_reaction_rule":""
+},
+{
 "id":"DNMPPA",
 "name":"Dihydroneopterin monophosphate dephosphorylase",
 "metabolites":{

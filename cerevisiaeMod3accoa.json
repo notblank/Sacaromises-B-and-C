@@ -1788,6 +1788,23 @@
 }
 },
 {
+"id":"ACITL",
+"name":"ATP:cytrate lyase",
+"metabolites":{
+"accoa_c":1,
+"adp_c":1,
+"atp_c":-1,
+"cit_c":-1,
+"coa_c":-1,
+"oaa_c":1,
+"pi_c":1
+},
+"lower_bound":-1000,
+"upper_bound":1000,
+"gene_reaction_rule":"Acly",
+"subsystem":"Butyrate_production"
+},
+{
 "id":"ACLSm",
 "name":"Acetolactate synthase  mitochondrial",
 "metabolites":{
@@ -5167,17 +5184,16 @@
 },
 {
 "id":"BCOAhydb",
-"name":" acyl-CoA hydrolase (EC 3.1.2.20)",
+"name":" phosphate butyryltransferase (2.3.1.19)",
 "metabolites":{
 "btcoa_c":-1,
-"but_c":1,
+"butpi_c":1,
 "coa_c":1,
-"h2o_c":-1,
-"h_c":1
+"pi_c":-1
 },
 "lower_bound":-1000,
 "upper_bound":1000,
-"gene_reaction_rule":"TesB",
+"gene_reaction_rule":"ptb",
 "subsystem":"Butyrate_production"
 },
 {
@@ -5336,6 +5352,20 @@
 "BTSr"
 ]
 }
+},
+{
+"id":"BUTKrb",
+"name":" butyrate kinase (2.7.2.7)",
+"metabolites":{
+"adp_c":1,
+"atp_c":-1,
+"but_c":-1,
+"butpi_c":1
+},
+"lower_bound":-1000,
+"upper_bound":1000,
+"gene_reaction_rule":"buk",
+"subsystem":"Butyrate_production"
 },
 {
 "id":"C14STR",
@@ -20843,6 +20873,21 @@
 }
 },
 {
+"id":"ME2",
+"name":"Malic enzyme",
+"metabolites":{
+"co2_c":1,
+"mal__L_c":-1,
+"nadp_c":-1,
+"nadph_c":1,
+"pyr_c":1
+},
+"lower_bound":-1000,
+"upper_bound":1000,
+"gene_reaction_rule":"RtME",
+"subsystem":"Butyrate_production"
+},
+{
 "id":"ME2m",
 "name":"Malic enzyme  NADP   mitochondrial",
 "metabolites":{
@@ -34657,6 +34702,12 @@
 "formula":"C4H7O2"
 },
 {
+"id":"butpi_c",
+"name":"Butanoyl phosphate",
+"compartment":"cytosol",
+"formula":"C4H7O5P"
+},
+{
 "id":"camp_c",
 "name":"CAMP C10H11N5O6P",
 "compartment":"c",
@@ -45486,6 +45537,10 @@
 ],
 "genes":[
 {
+"id":"Acly",
+"name":"Acly"
+},
+{
 "id":"Q0045",
 "name":"COX1",
 "notes":{
@@ -45549,12 +45604,12 @@
 }
 },
 {
-"id":"Ter",
-"name":"Ter"
+"id":"RtME",
+"name":"RtME"
 },
 {
-"id":"TesB",
-"name":"TesB"
+"id":"Ter",
+"name":"Ter"
 },
 {
 "id":"UNKNOWN",
@@ -53639,6 +53694,10 @@
 }
 },
 {
+"id":"buk",
+"name":"buk"
+},
+{
 "id":"phaA",
 "name":"phaA"
 },
@@ -53649,6 +53708,10 @@
 {
 "id":"phaJ",
 "name":"phaJ"
+},
+{
+"id":"ptb",
+"name":"ptb"
 }
 ],
 "id":"iMM904",

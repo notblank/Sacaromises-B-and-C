@@ -1788,6 +1788,23 @@
 }
 },
 {
+"id":"ACITL",
+"name":"ATP:cytrate lyase",
+"metabolites":{
+"accoa_c":1,
+"adp_c":1,
+"atp_c":-1,
+"cit_c":-1,
+"coa_c":-1,
+"oaa_c":1,
+"pi_c":1
+},
+"lower_bound":-1000,
+"upper_bound":1000,
+"gene_reaction_rule":"Acly",
+"subsystem":"Butyrate_production"
+},
+{
 "id":"ACLSm",
 "name":"Acetolactate synthase  mitochondrial",
 "metabolites":{
@@ -5164,21 +5181,6 @@
 "BACCL"
 ]
 }
-},
-{
-"id":"BCOAhydb",
-"name":" acyl-CoA hydrolase (EC 3.1.2.20)",
-"metabolites":{
-"btcoa_c":-1,
-"but_c":1,
-"coa_c":1,
-"h2o_c":-1,
-"h_c":1
-},
-"lower_bound":-1000,
-"upper_bound":1000,
-"gene_reaction_rule":"TesB",
-"subsystem":"Butyrate_production"
 },
 {
 "id":"BIOMASS_SC5_notrace",
@@ -13425,6 +13427,22 @@
 }
 },
 {
+"id":"FACOAL40ib",
+"name":" medium-chain acyl-CoA synthetase [EC:6.2.1.2]",
+"metabolites":{
+"amp_c":1,
+"atp_c":-1,
+"btcoa_c":1,
+"but_c":-1,
+"coa_c":-1,
+"ppi_c":1
+},
+"lower_bound":-1000,
+"upper_bound":1000,
+"gene_reaction_rule":"lvaE",
+"subsystem":"Butyrate_production"
+},
+{
 "id":"FACOAL80p",
 "name":"Fatty acid  CoA ligase  octanoate   peroxisomal",
 "metabolites":{
@@ -20841,6 +20859,21 @@
 "ME1m"
 ]
 }
+},
+{
+"id":"ME2",
+"name":"Malic enzyme",
+"metabolites":{
+"co2_c":1,
+"mal__L_c":-1,
+"nadp_c":-1,
+"nadph_c":1,
+"pyr_c":1
+},
+"lower_bound":-1000,
+"upper_bound":1000,
+"gene_reaction_rule":"RtME",
+"subsystem":"Butyrate_production"
 },
 {
 "id":"ME2m",
@@ -45486,6 +45519,10 @@
 ],
 "genes":[
 {
+"id":"Acly",
+"name":"Acly"
+},
+{
 "id":"Q0045",
 "name":"COX1",
 "notes":{
@@ -45549,12 +45586,12 @@
 }
 },
 {
-"id":"Ter",
-"name":"Ter"
+"id":"RtME",
+"name":"RtME"
 },
 {
-"id":"TesB",
-"name":"TesB"
+"id":"Ter",
+"name":"Ter"
 },
 {
 "id":"UNKNOWN",
@@ -53637,6 +53674,10 @@
 "YPR192W"
 ]
 }
+},
+{
+"id":"lvaE",
+"name":"lvaE"
 },
 {
 "id":"phaA",
