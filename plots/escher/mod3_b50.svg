@@ -19,18 +19,18 @@
         <g id="reactions">
             <g id="r667142" class="reaction">
                 <g class="reaction-label-group" transform="translate(3904.415075,3242.89501953125)">
-                    <text class="reaction-label label" visibility="visible">PGI 9.59</text>
+                    <text class="reaction-label label" visibility="visible">PGI 9.60</text>
                     <g class="all-genes-label-group"/></g>
                 <g class="segment-group" id="s651">
-                    <path class="segment" d="M3870.9932,3134.643991467357 C3870.9932,3132.7547652343746 3870.9932,3156.682361328125 3870.9932,3196.682861328125" style="stroke: rgb(204, 73, 123); stroke-width: 22.5793;"/>
+                    <path class="segment" d="M3870.9932,3134.641520267133 C3870.9932,3132.7547652343746 3870.9932,3156.682361328125 3870.9932,3196.682861328125" style="stroke: rgb(204, 73, 124); stroke-width: 22.5768;"/>
                     <g class="arrowheads">
-                        <path class="arrowhead" d="M-22.579317639232315,0 L0,22.579317639232315 L22.579317639232315,0 Z" transform="translate(3870.9932,3134.643991467357)rotate(180)" style="fill: rgb(255, 255, 255); stroke: rgb(204, 73, 123);"/>
+                        <path class="arrowhead" d="M-22.57684643900822,0 L0,22.57684643900822 L22.57684643900822,0 Z" transform="translate(3870.9932,3134.641520267133)rotate(180)" style="fill: rgb(255, 255, 255); stroke: rgb(204, 73, 124);"/>
                     </g>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s652">
-                    <path class="segment" d="M3870.9932,3196.682861328125 C3870.9932,3217.682711328125 3870.9932,3279.316638671875 3870.9932,3296.7368210326426" style="stroke: rgb(204, 73, 123); stroke-width: 22.5793;"/>
+                    <path class="segment" d="M3870.9932,3196.682861328125 C3870.9932,3217.682711328125 3870.9932,3279.316638671875 3870.9932,3296.739292232867" style="stroke: rgb(204, 73, 124); stroke-width: 22.5768;"/>
                     <g class="arrowheads">
-                        <path class="arrowhead" d="M-22.579317639232315,0 L0,22.579317639232315 L22.579317639232315,0 Z" transform="translate(3870.9932,3296.7368210326426)rotate(360)" style="fill: rgb(204, 73, 123); stroke: rgb(204, 73, 123);"/>
+                        <path class="arrowhead" d="M-22.57684643900822,0 L0,22.57684643900822 L22.57684643900822,0 Z" transform="translate(3870.9932,3296.739292232867)rotate(360)" style="fill: rgb(204, 73, 124); stroke: rgb(204, 73, 124);"/>
                     </g>
                     <g class="stoichiometry-labels"/></g>
             </g>
@@ -156,104 +156,104 @@
             </g>
             <g id="r667157" class="reaction">
                 <g class="reaction-label-group" transform="translate(3880.9932,6286.249)">
-                    <text class="reaction-label label" visibility="visible">PYRt2m 10.7</text>
+                    <text class="reaction-label label" visibility="visible">PYRt2m 10.9</text>
                     <g class="all-genes-label-group"/></g>
                 <g class="segment-group" id="s4879">
-                    <path class="segment" d="M3870.9932,6316.2495 C3870.9932,6343.2495 3870.9932,6406.2495 3870.9932,6443.385280531534" style="stroke: rgb(210, 64, 109); stroke-width: 22.8642;"/>
+                    <path class="segment" d="M3870.9932,6316.2495 C3870.9932,6343.2495 3870.9932,6406.2495 3870.9932,6443.328314085542" style="stroke: rgb(211, 62, 106); stroke-width: 22.9212;"/>
                     <g class="arrowheads">
-                        <path class="arrowhead" d="M-22.864219468466477,0 L0,22.864219468466477 L22.864219468466477,0 Z" transform="translate(3870.9932,6443.385280531534)rotate(360)" style="fill: rgb(210, 64, 109); stroke: rgb(210, 64, 109);"/>
+                        <path class="arrowhead" d="M-22.921185914458007,0 L0,22.921185914458007 L22.921185914458007,0 Z" transform="translate(3870.9932,6443.328314085542)rotate(360)" style="fill: rgb(211, 62, 106); stroke: rgb(211, 62, 106);"/>
                     </g>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s5364">
-                    <path class="segment" d="M3870.9932,6276.25 3870.9932,6296.249" style="stroke: rgb(210, 64, 109); stroke-width: 22.8642;"/>
+                    <path class="segment" d="M3870.9932,6276.25 3870.9932,6296.249" style="stroke: rgb(211, 62, 106); stroke-width: 22.9212;"/>
                     <g class="arrowheads"/>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s5365">
-                    <path class="segment" d="M3870.9932,6296.249 3870.9932,6316.2495" style="stroke: rgb(210, 64, 109); stroke-width: 22.8642;"/>
+                    <path class="segment" d="M3870.9932,6296.249 3870.9932,6316.2495" style="stroke: rgb(211, 62, 106); stroke-width: 22.9212;"/>
                     <g class="arrowheads"/>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s5366">
-                    <path class="segment" d="M3870.9932,6149.113219468466 C3870.9932,6186.2495 3870.9932,6249.24985 3870.9932,6276.25" style="stroke: rgb(210, 64, 109); stroke-width: 22.8642;"/>
+                    <path class="segment" d="M3870.9932,6149.170185914458 C3870.9932,6186.2495 3870.9932,6249.24985 3870.9932,6276.25" style="stroke: rgb(211, 62, 106); stroke-width: 22.9212;"/>
                     <g class="arrowheads">
-                        <path class="arrowhead" d="M-22.864219468466477,0 L0,22.864219468466477 L22.864219468466477,0 Z" transform="translate(3870.9932,6149.113219468466)rotate(180)" style="fill: rgb(255, 255, 255); stroke: rgb(210, 64, 109);"/>
+                        <path class="arrowhead" d="M-22.921185914458007,0 L0,22.921185914458007 L22.921185914458007,0 Z" transform="translate(3870.9932,6149.170185914458)rotate(180)" style="fill: rgb(255, 255, 255); stroke: rgb(211, 62, 106);"/>
                     </g>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s5367">
-                    <path class="segment" d="M3928.6652896021324,6203.008886953783 C3870.9932,6212.218601451612 3870.9932,6257.040580435483 3870.9932,6276.25" style="stroke: rgb(210, 64, 109); stroke-width: 22.8642;"/>
+                    <path class="segment" d="M3928.6090359096233,6203.01787016301 C3870.9932,6212.218601451612 3870.9932,6257.040580435483 3870.9932,6276.25" style="stroke: rgb(211, 62, 106); stroke-width: 22.9212;"/>
                     <g class="arrowheads">
-                        <path class="arrowhead" d="M-22.864219468466477,0 L0,22.864219468466477 L22.864219468466477,0 Z" transform="translate(3928.6652896021324,6203.008886953783)rotate(260.9269855762908)" style="fill: rgb(255, 255, 255); stroke: rgb(210, 64, 109);"/>
+                        <path class="arrowhead" d="M-22.921185914458007,0 L0,22.921185914458007 L22.921185914458007,0 Z" transform="translate(3928.6090359096233,6203.01787016301)rotate(260.9269855762908)" style="fill: rgb(255, 255, 255); stroke: rgb(211, 62, 106);"/>
                     </g>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s5368">
-                    <path class="segment" d="M3870.9932,6316.2495 C3870.9932,6335.458919564517 3870.9932,6380.280898548388 3928.6652896021324,6389.490613046217" style="stroke: rgb(210, 64, 109); stroke-width: 22.8642;"/>
+                    <path class="segment" d="M3870.9932,6316.2495 C3870.9932,6335.458919564517 3870.9932,6380.280898548388 3928.6090359096233,6389.48162983699" style="stroke: rgb(211, 62, 106); stroke-width: 22.9212;"/>
                     <g class="arrowheads">
-                        <path class="arrowhead" d="M-22.864219468466477,0 L0,22.864219468466477 L22.864219468466477,0 Z" transform="translate(3928.6652896021324,6389.490613046217)rotate(279.0730144237092)" style="fill: rgb(210, 64, 109); stroke: rgb(210, 64, 109);"/>
+                        <path class="arrowhead" d="M-22.921185914458007,0 L0,22.921185914458007 L22.921185914458007,0 Z" transform="translate(3928.6090359096233,6389.48162983699)rotate(279.0730144237092)" style="fill: rgb(211, 62, 106); stroke: rgb(211, 62, 106);"/>
                     </g>
                     <g class="stoichiometry-labels"/></g>
             </g>
             <g id="r667162" class="reaction">
                 <g class="reaction-label-group" transform="translate(2475.931640625,7185.716284375)">
-                    <text class="reaction-label label" visibility="visible">ME2m 0.219</text>
+                    <text class="reaction-label label" visibility="visible">ME2m 0.212</text>
                     <g class="all-genes-label-group"/></g>
                 <g class="segment-group" id="s5438">
-                    <path class="segment" d="M2620.09912109375,7126.257 2598.309814453125,7107.46384296875" style="stroke: rgb(151, 148, 252); stroke-width: 20.0587;"/>
+                    <path class="segment" d="M2620.09912109375,7126.257 2598.309814453125,7107.46384296875" style="stroke: rgb(151, 148, 252); stroke-width: 20.0568;"/>
                     <g class="arrowheads"/>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s5439">
-                    <path class="segment" d="M2598.309814453125,7107.46384296875 2558.309814453125,7077.46354296875" style="stroke: rgb(151, 148, 252); stroke-width: 20.0587;"/>
+                    <path class="segment" d="M2598.309814453125,7107.46384296875 2558.309814453125,7077.46354296875" style="stroke: rgb(151, 148, 252); stroke-width: 20.0568;"/>
                     <g class="arrowheads"/>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s5440">
-                    <path class="segment" d="M3141.0319398258607,7474.723897386149 C3055.0798480092258,7470.351591046484 2722.716874324643,7246.99548473582 2620.09912109375,7126.257" style="stroke: rgb(151, 148, 252); stroke-width: 20.0587;"/>
+                    <path class="segment" d="M3141.0319398258607,7474.723897386149 C3055.0798480092258,7470.351591046484 2722.716874324643,7246.99548473582 2620.09912109375,7126.257" style="stroke: rgb(151, 148, 252); stroke-width: 20.0568;"/>
                     <g class="arrowheads"/>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s5441">
-                    <path class="segment" d="M2645.3257579145097,7196.9523196181435 C2656.9775488272935,7153.915544211949 2631.162649413813,7134.554563263584 2620.09912109375,7126.257" style="stroke: rgb(151, 148, 252); stroke-width: 20.0587;"/>
+                    <path class="segment" d="M2645.3257579145097,7196.9523196181435 C2656.9775488272935,7153.915544211949 2631.162649413813,7134.554563263584 2620.09912109375,7126.257" style="stroke: rgb(151, 148, 252); stroke-width: 20.0568;"/>
                     <g class="arrowheads"/>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s5442">
-                    <path class="segment" d="M2558.309814453125,7077.46354296875 C2538.960483376,7062.9513995409225 2493.8120441960414,7029.089731542659 2455.258029536138,7012.940473754344" style="stroke: rgb(151, 148, 252); stroke-width: 20.0587;"/>
+                    <path class="segment" d="M2558.309814453125,7077.46354296875 C2538.960483376,7062.9513995409225 2493.8120441960414,7029.089731542659 2455.256343684106,7012.939767595483" style="stroke: rgb(151, 148, 252); stroke-width: 20.0568;"/>
                     <g class="arrowheads">
-                        <path class="arrowhead" d="M-20.05866570786157,0 L0,20.05866570786157 L20.05866570786157,0 Z" transform="translate(2455.258029536138,7012.940473754344)rotate(112.72752168898812)" style="fill: rgb(151, 148, 252); stroke: rgb(151, 148, 252);"/>
+                        <path class="arrowhead" d="M-20.056837933966424,0 L0,20.056837933966424 L20.056837933966424,0 Z" transform="translate(2455.256343684106,7012.939767595483)rotate(112.72752168898812)" style="fill: rgb(151, 148, 252); stroke: rgb(151, 148, 252);"/>
                     </g>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s5443">
-                    <path class="segment" d="M2558.309814453125,7077.46354296875 C2529.410118409988,7055.788554188676 2461.9774943093353,7005.213580368505 2423.7753484389914,6940.561135125754" style="stroke: rgb(151, 148, 252); stroke-width: 20.0587;"/>
+                    <path class="segment" d="M2558.309814453125,7077.46354296875 C2529.410118409988,7055.788554188676 2461.9774943093353,7005.213580368505 2423.7744186251903,6940.559561529964" style="stroke: rgb(151, 148, 252); stroke-width: 20.0568;"/>
                     <g class="arrowheads">
-                        <path class="arrowhead" d="M-20.05866570786157,0 L0,20.05866570786157 L20.05866570786157,0 Z" transform="translate(2423.7753484389914,6940.561135125754)rotate(149.42180556634997)" style="fill: rgb(151, 148, 252); stroke: rgb(151, 148, 252);"/>
+                        <path class="arrowhead" d="M-20.056837933966424,0 L0,20.056837933966424 L20.056837933966424,0 Z" transform="translate(2423.7744186251903,6940.559561529964)rotate(149.42180556634997)" style="fill: rgb(151, 148, 252); stroke: rgb(151, 148, 252);"/>
                     </g>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s5444">
-                    <path class="segment" d="M2558.309814453125,7077.46354296875 C2542.5263410222706,7065.625819519558 2505.6982363502775,7038.004464804777 2467.159130854429,7047.6951525014665" style="stroke: rgb(151, 148, 252); stroke-width: 20.0587;"/>
+                    <path class="segment" d="M2558.309814453125,7077.46354296875 C2542.5263410222706,7065.625819519558 2505.6982363502775,7038.004464804777 2467.157358260032,7047.6955982216905" style="stroke: rgb(151, 148, 252); stroke-width: 20.0568;"/>
                     <g class="arrowheads">
-                        <path class="arrowhead" d="M-20.05866570786157,0 L0,20.05866570786157 L20.05866570786157,0 Z" transform="translate(2467.159130854429,7047.6951525014665)rotate(435.88554994457735)" style="fill: rgb(151, 148, 252); stroke: rgb(151, 148, 252);"/>
+                        <path class="arrowhead" d="M-20.056837933966424,0 L0,20.056837933966424 L20.056837933966424,0 Z" transform="translate(2467.157358260032,7047.6955982216905)rotate(435.88554994457735)" style="fill: rgb(151, 148, 252); stroke: rgb(151, 148, 252);"/>
                     </g>
                     <g class="stoichiometry-labels"/></g>
             </g>
             <g id="r667164" class="reaction">
                 <g class="reaction-label-group" transform="translate(3880.9912,5486.2495)">
-                    <text class="reaction-label label" visibility="visible">ENO 18.5</text>
+                    <text class="reaction-label label" visibility="visible">ENO 18.6</text>
                     <g class="all-genes-label-group"/></g>
                 <g class="segment-group" id="s5826">
-                    <path class="segment" d="M3870.9912,5431.213212019403 C3870.9912,5394.2495 3870.9912,5436.2495 3870.9912,5496.2495" style="stroke: rgb(254, 1, 2); stroke-width: 24.9637;"/>
+                    <path class="segment" d="M3870.9912,5431.2495 C3870.9912,5394.2495 3870.9912,5436.2495 3870.9912,5496.2495" style="stroke: rgb(255, 0, 0); stroke-width: 25;"/>
                     <g class="arrowheads">
-                        <path class="arrowhead" d="M-24.96371201940247,0 L0,24.96371201940247 L24.96371201940247,0 Z" transform="translate(3870.9912,5431.213212019403)rotate(180)" style="fill: rgb(255, 255, 255); stroke: rgb(254, 1, 2);"/>
+                        <path class="arrowhead" d="M-25,0 L0,25 L25,0 Z" transform="translate(3870.9912,5431.2495)rotate(180)" style="fill: rgb(255, 255, 255); stroke: rgb(255, 0, 0);"/>
                     </g>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s5827">
-                    <path class="segment" d="M3870.9912,5496.2495 3870.9912,5516.25" style="stroke: rgb(254, 1, 2); stroke-width: 24.9637;"/>
+                    <path class="segment" d="M3870.9912,5496.2495 3870.9912,5516.25" style="stroke: rgb(255, 0, 0); stroke-width: 25;"/>
                     <g class="arrowheads"/>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s5828">
-                    <path class="segment" d="M3870.9912,5516.25 C3870.9912,5535.459325860259 3870.9912,5580.281086200865 3926.5900179636988,5589.159335520736" style="stroke: rgb(254, 1, 2); stroke-width: 24.9637;"/>
+                    <path class="segment" d="M3870.9912,5516.25 C3870.9912,5535.459325860259 3870.9912,5580.281086200865 3926.5541839731345,5589.153613400842" style="stroke: rgb(255, 0, 0); stroke-width: 25;"/>
                     <g class="arrowheads">
-                        <path class="arrowhead" d="M-24.96371201940247,0 L0,24.96371201940247 L24.96371201940247,0 Z" transform="translate(3926.5900179636988,5589.159335520736)rotate(279.0726302249769)" style="fill: rgb(254, 1, 2); stroke: rgb(254, 1, 2);"/>
+                        <path class="arrowhead" d="M-25,0 L0,25 L25,0 Z" transform="translate(3926.5541839731345,5589.153613400842)rotate(279.0726302249769)" style="fill: rgb(255, 0, 0); stroke: rgb(255, 0, 0);"/>
                     </g>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s5829">
-                    <path class="segment" d="M3870.9912,5516.25 C3870.9912,5543.25 3870.9912,5606.25 3870.9912,5641.286287980597" style="stroke: rgb(254, 1, 2); stroke-width: 24.9637;"/>
+                    <path class="segment" d="M3870.9912,5516.25 C3870.9912,5543.25 3870.9912,5606.25 3870.9912,5641.25" style="stroke: rgb(255, 0, 0); stroke-width: 25;"/>
                     <g class="arrowheads">
-                        <path class="arrowhead" d="M-24.96371201940247,0 L0,24.96371201940247 L24.96371201940247,0 Z" transform="translate(3870.9912,5641.286287980597)rotate(360)" style="fill: rgb(254, 1, 2); stroke: rgb(254, 1, 2);"/>
+                        <path class="arrowhead" d="M-25,0 L0,25 L25,0 Z" transform="translate(3870.9912,5641.25)rotate(360)" style="fill: rgb(255, 0, 0); stroke: rgb(255, 0, 0);"/>
                     </g>
                     <g class="stoichiometry-labels"/></g>
             </g>
@@ -305,44 +305,44 @@
             </g>
             <g id="r667170" class="reaction">
                 <g class="reaction-label-group" transform="translate(3880.9941,6706.2495)">
-                    <text class="reaction-label label" visibility="visible">PDHm 10.6</text>
+                    <text class="reaction-label label" visibility="visible">PDHm 10.8</text>
                     <g class="all-genes-label-group"/></g>
                 <g class="segment-group" id="s1670">
-                    <path class="segment" d="M3870.99347,6526.249499998785 C3870.9941,6596.249499998988 3870.9941,6666.249499999696 3870.9941,6696.2495" style="stroke: rgb(210, 65, 110); stroke-width: 22.8385;"/>
+                    <path class="segment" d="M3870.99347,6526.249499998785 C3870.9941,6596.249499998988 3870.9941,6666.249499999696 3870.9941,6696.2495" style="stroke: rgb(211, 63, 107); stroke-width: 22.8963;"/>
                     <g class="arrowheads"/>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s1671">
-                    <path class="segment" d="M3870.9941,6776.251 C3870.9941,6822.750850000196 3870.9941,6931.250500000653 3870.993448740459,7043.411503608938" style="stroke: rgb(210, 65, 110); stroke-width: 22.8385;"/>
+                    <path class="segment" d="M3870.9941,6776.251 C3870.9941,6822.750850000196 3870.9941,6931.250500000653 3870.993449075886,7043.353735741303" style="stroke: rgb(211, 63, 107); stroke-width: 22.8963;"/>
                     <g class="arrowheads">
-                        <path class="arrowhead" d="M-22.838496391784304,0 L0,22.838496391784304 L22.838496391784304,0 Z" transform="translate(3870.993448740459,7043.411503608938)rotate(360.0003326862446)" style="fill: rgb(210, 65, 110); stroke: rgb(210, 65, 110);"/>
+                        <path class="arrowhead" d="M-22.896264259420207,0 L0,22.896264259420207 L22.896264259420207,0 Z" transform="translate(3870.993449075886,7043.353735741303)rotate(360.0003326862446)" style="fill: rgb(211, 63, 107); stroke: rgb(211, 63, 107);"/>
                     </g>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s1672">
-                    <path class="segment" d="M3870.9941,6776.251 C3870.9941,6795.046100559025 3870.9941,6838.901335196749 3803.81927241839,6837.2831464141" style="stroke: rgb(210, 65, 110); stroke-width: 22.8385;"/>
+                    <path class="segment" d="M3870.9941,6776.251 C3870.9941,6795.046100559025 3870.9941,6838.901335196749 3803.8770235322527,6837.284537593028" style="stroke: rgb(211, 63, 107); stroke-width: 22.8963;"/>
                     <g class="arrowheads">
-                        <path class="arrowhead" d="M-22.838496391784304,0 L0,22.838496391784304 L22.838496391784304,0 Z" transform="translate(3803.81927241839,6837.2831464141)rotate(91.3799434004627)" style="fill: rgb(210, 65, 110); stroke: rgb(210, 65, 110);"/>
+                        <path class="arrowhead" d="M-22.896264259420207,0 L0,22.896264259420207 L22.896264259420207,0 Z" transform="translate(3803.8770235322527,6837.284537593028)rotate(91.3799434004627)" style="fill: rgb(211, 63, 107); stroke: rgb(211, 63, 107);"/>
                     </g>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s1673">
-                    <path class="segment" d="M3870.9941,6776.251 C3870.9941,6793.743894271836 3870.9941,6834.560647572786 3928.161726019813,6835.527267764923" style="stroke: rgb(210, 65, 110); stroke-width: 22.8385;"/>
+                    <path class="segment" d="M3870.9941,6776.251 C3870.9941,6793.743894271836 3870.9941,6834.560647572786 3928.1039664082714,6835.526291135129" style="stroke: rgb(211, 63, 107); stroke-width: 22.8963;"/>
                     <g class="arrowheads">
-                        <path class="arrowhead" d="M-22.838496391784304,0 L0,22.838496391784304 L22.838496391784304,0 Z" transform="translate(3928.161726019813,6835.527267764923)rotate(270.96869476959705)" style="fill: rgb(210, 65, 110); stroke: rgb(210, 65, 110);"/>
+                        <path class="arrowhead" d="M-22.896264259420207,0 L0,22.896264259420207 L22.896264259420207,0 Z" transform="translate(3928.1039664082714,6835.526291135129)rotate(270.96869476959705)" style="fill: rgb(211, 63, 107); stroke: rgb(211, 63, 107);"/>
                     </g>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s2518">
-                    <path class="segment" d="M3870.9941,6696.2495 3870.9941,6716.2495" style="stroke: rgb(210, 65, 110); stroke-width: 22.8385;"/>
+                    <path class="segment" d="M3870.9941,6696.2495 3870.9941,6716.2495" style="stroke: rgb(211, 63, 107); stroke-width: 22.8963;"/>
                     <g class="arrowheads"/>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s2519">
-                    <path class="segment" d="M3870.9941,6716.2495 3870.9941,6776.251" style="stroke: rgb(210, 65, 110); stroke-width: 22.8385;"/>
+                    <path class="segment" d="M3870.9941,6716.2495 3870.9941,6776.251" style="stroke: rgb(211, 63, 107); stroke-width: 22.8963;"/>
                     <g class="arrowheads"/>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s2520">
-                    <path class="segment" d="M3951.0740356701453,6628.035347417066 C3870.9941,6635.216578555402 3870.9941,6677.939623566621 3870.9941,6696.2495" style="stroke: rgb(210, 65, 110); stroke-width: 22.8385;"/>
+                    <path class="segment" d="M3951.0740356701453,6628.035347417066 C3870.9941,6635.216578555402 3870.9941,6677.939623566621 3870.9941,6696.2495" style="stroke: rgb(211, 63, 107); stroke-width: 22.8963;"/>
                     <g class="arrowheads"/>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s2521">
-                    <path class="segment" d="M3790.9141643298544,6628.035347417066 C3870.9941,6635.216578555402 3870.9941,6677.939623566621 3870.9941,6696.2495" style="stroke: rgb(210, 65, 110); stroke-width: 22.8385;"/>
+                    <path class="segment" d="M3790.9141643298544,6628.035347417066 C3870.9941,6635.216578555402 3870.9941,6677.939623566621 3870.9941,6696.2495" style="stroke: rgb(211, 63, 107); stroke-width: 22.8963;"/>
                     <g class="arrowheads"/>
                     <g class="stoichiometry-labels"/></g>
             </g>
@@ -368,13 +368,13 @@
                     <text class="reaction-label label" visibility="visible">GLCt1 10.0</text>
                     <g class="all-genes-label-group"/></g>
                 <g class="segment-group" id="s1682">
-                    <path class="segment" d="M3871,2212.072473828125 C3871,2200.072473828125 3871,2242.072473828125 3871,2302.072473828125" style="stroke: rgb(206, 69, 118); stroke-width: 22.6891;"/>
+                    <path class="segment" d="M3871,2212.072473828125 C3871,2200.072473828125 3871,2242.072473828125 3871,2302.072473828125" style="stroke: rgb(206, 70, 118); stroke-width: 22.6832;"/>
                     <g class="arrowheads"/>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s1683">
-                    <path class="segment" d="M3871,2302.072473828125 C3870.99898,2320.071303828125 3870.9966,2362.068573828125 3870.9961859093005,2369.3755817746323" style="stroke: rgb(206, 69, 118); stroke-width: 22.6891;"/>
+                    <path class="segment" d="M3871,2302.072473828125 C3870.99898,2320.071303828125 3870.9966,2362.068573828125 3870.996185575438,2369.381473081255" style="stroke: rgb(206, 70, 118); stroke-width: 22.6832;"/>
                     <g class="arrowheads">
-                        <path class="arrowhead" d="M-22.68909213809855,0 L0,22.68909213809855 L22.68909213809855,0 Z" transform="translate(3870.9961859093005,2369.3755817746323)rotate(360.0032469718888)" style="fill: rgb(206, 69, 118); stroke: rgb(206, 69, 118);"/>
+                        <path class="arrowhead" d="M-22.68320083146656,0 L0,22.68320083146656 L22.68320083146656,0 Z" transform="translate(3870.996185575438,2369.381473081255)rotate(360.0032469718888)" style="fill: rgb(206, 70, 118); stroke: rgb(206, 70, 118);"/>
                     </g>
                     <g class="stoichiometry-labels"/></g>
             </g>
@@ -417,98 +417,98 @@
             </g>
             <g id="r667179" class="reaction">
                 <g class="reaction-label-group" transform="translate(3881,5866.2563)">
-                    <text class="reaction-label label" visibility="visible">PYK 18.3</text>
+                    <text class="reaction-label label" visibility="visible">PYK 18.5</text>
                     <g class="all-genes-label-group"/></g>
                 <g class="segment-group" id="s1640">
-                    <path class="segment" d="M3810.570652173213,5790.379141034672 C3871,5803.106369711898 3871,5840.311810913569 3871,5856.257" style="stroke: rgb(254, 2, 4); stroke-width: 24.9297;"/>
+                    <path class="segment" d="M3810.570652173213,5790.379141034672 C3871,5803.106369711898 3871,5840.311810913569 3871,5856.257" style="stroke: rgb(254, 1, 2); stroke-width: 24.9671;"/>
                     <g class="arrowheads"/>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s1641">
-                    <path class="segment" d="M3870.994499855616,5726.249999818516 C3871,5776.253499879005 3871,5832.255949963701 3871,5856.257" style="stroke: rgb(254, 2, 4); stroke-width: 24.9297;"/>
+                    <path class="segment" d="M3870.994499855616,5726.249999818516 C3871,5776.253499879005 3871,5832.255949963701 3871,5856.257" style="stroke: rgb(254, 1, 2); stroke-width: 24.9671;"/>
                     <g class="arrowheads"/>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s1642">
-                    <path class="segment" d="M3931.429347826787,5790.379141034672 C3871,5803.106369711898 3871,5840.311810913569 3871,5856.257" style="stroke: rgb(254, 2, 4); stroke-width: 24.9297;"/>
+                    <path class="segment" d="M3931.429347826787,5790.379141034672 C3871,5803.106369711898 3871,5840.311810913569 3871,5856.257" style="stroke: rgb(254, 1, 2); stroke-width: 24.9671;"/>
                     <g class="arrowheads"/>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s1643">
-                    <path class="segment" d="M3871,5896.256 C3871,5907.9714705420865 3871,5935.307568473622 3886.8002159977677,5938.190958193114" style="stroke: rgb(254, 2, 4); stroke-width: 24.9297;"/>
+                    <path class="segment" d="M3871,5896.256 C3871,5907.9714705420865 3871,5935.307568473622 3886.7634764860595,5938.184253580318" style="stroke: rgb(254, 1, 2); stroke-width: 24.9671;"/>
                     <g class="arrowheads">
-                        <path class="arrowhead" d="M-24.929744449244602,0 L0,24.929744449244602 L24.929744449244602,0 Z" transform="translate(3886.8002159977677,5938.190958193114)rotate(280.34213178486897)" style="fill: rgb(254, 2, 4); stroke: rgb(254, 2, 4);"/>
+                        <path class="arrowhead" d="M-24.967090714831425,0 L0,24.967090714831425 L24.967090714831425,0 Z" transform="translate(3886.7634764860595,5938.184253580318)rotate(280.34213178486897)" style="fill: rgb(254, 1, 2); stroke: rgb(254, 1, 2);"/>
                     </g>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s1644">
-                    <path class="segment" d="M3871,5896.256 C3871,5926.254950017341 3871,5996.2525000578025 3870.9969353533534,6041.319255677761" style="stroke: rgb(254, 2, 4); stroke-width: 24.9297;"/>
+                    <path class="segment" d="M3871,5896.256 C3871,5926.254950017341 3871,5996.2525000578025 3870.996937892988,6041.2819094122615" style="stroke: rgb(254, 1, 2); stroke-width: 24.9671;"/>
                     <g class="arrowheads">
-                        <path class="arrowhead" d="M-24.929744449244602,0 L0,24.929744449244602 L24.929744449244602,0 Z" transform="translate(3870.9969353533534,6041.319255677761)rotate(360.0038962493719)" style="fill: rgb(254, 2, 4); stroke: rgb(254, 2, 4);"/>
+                        <path class="arrowhead" d="M-24.967090714831425,0 L0,24.967090714831425 L24.967090714831425,0 Z" transform="translate(3870.996937892988,6041.2819094122615)rotate(360.0038962493719)" style="fill: rgb(254, 1, 2); stroke: rgb(254, 1, 2);"/>
                     </g>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s5651">
-                    <path class="segment" d="M3871,5856.257 3871,5876.2563" style="stroke: rgb(254, 2, 4); stroke-width: 24.9297;"/>
+                    <path class="segment" d="M3871,5856.257 3871,5876.2563" style="stroke: rgb(254, 1, 2); stroke-width: 24.9671;"/>
                     <g class="arrowheads"/>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s5652">
-                    <path class="segment" d="M3871,5876.2563 3871,5896.256" style="stroke: rgb(254, 2, 4); stroke-width: 24.9297;"/>
+                    <path class="segment" d="M3871,5876.2563 3871,5896.256" style="stroke: rgb(254, 1, 2); stroke-width: 24.9671;"/>
                     <g class="arrowheads"/>
                     <g class="stoichiometry-labels"/></g>
             </g>
             <g id="r667181" class="reaction">
                 <g class="reaction-label-group" transform="translate(4420.993,8736.25)">
-                    <text class="reaction-label label" visibility="visible">CO2tm -11.0</text>
+                    <text class="reaction-label label" visibility="visible">CO2tm -11.4</text>
                     <g class="all-genes-label-group"/></g>
                 <g class="segment-group" id="s1652">
-                    <path class="segment" d="M4450.61970831699,8802.859583309986 C4470.493,8831.25 4445.993,8796.25 4410.993,8746.25" style="stroke: rgb(212, 61, 104); stroke-width: 22.9648;"/>
+                    <path class="segment" d="M4450.5686749646475,8802.786678520924 C4470.493,8831.25 4445.993,8796.25 4410.993,8746.25" style="stroke: rgb(214, 58, 99); stroke-width: 23.0537;"/>
                     <g class="arrowheads">
-                        <path class="arrowhead" d="M-22.96475345165223,0 L0,22.96475345165223 L22.96475345165223,0 Z" transform="translate(4450.61970831699,8802.859583309986)rotate(325.0079798014413)" style="fill: rgb(212, 61, 104); stroke: rgb(212, 61, 104);"/>
+                        <path class="arrowhead" d="M-23.053745087885517,0 L0,23.053745087885517 L23.053745087885517,0 Z" transform="translate(4450.5686749646475,8802.786678520924)rotate(325.0079798014413)" style="fill: rgb(214, 58, 99); stroke: rgb(214, 58, 99);"/>
                     </g>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s1653">
-                    <path class="segment" d="M4410.993,8746.25 C4400.493,8731.24985 4375.993,8696.2495 4365.631502880025,8681.447213235791" style="stroke: rgb(212, 61, 104); stroke-width: 22.9648;"/>
+                    <path class="segment" d="M4410.993,8746.25 C4400.493,8731.24985 4375.993,8696.2495 4365.682535889865,8681.520118264605" style="stroke: rgb(214, 58, 99); stroke-width: 23.0537;"/>
                     <g class="arrowheads">
-                        <path class="arrowhead" d="M-22.96475345165223,0 L0,22.96475345165223 L22.96475345165223,0 Z" transform="translate(4365.631502880025,8681.447213235791)rotate(145.00824897443795)" style="fill: rgb(255, 255, 255); stroke: rgb(212, 61, 104);"/>
+                        <path class="arrowhead" d="M-23.053745087885517,0 L0,23.053745087885517 L23.053745087885517,0 Z" transform="translate(4365.682535889865,8681.520118264605)rotate(145.00824897443795)" style="fill: rgb(255, 255, 255); stroke: rgb(214, 58, 99);"/>
                     </g>
                     <g class="stoichiometry-labels"/></g>
             </g>
             <g id="r667182" class="reaction">
                 <g class="reaction-label-group" transform="translate(3350.9932,7366.1327421875)">
-                    <text class="reaction-label label" visibility="visible">MDHm -10.6</text>
+                    <text class="reaction-label label" visibility="visible">MDHm -11.0</text>
                     <g class="all-genes-label-group"/></g>
                 <g class="segment-group" id="s1654">
-                    <path class="segment" d="M3300.9932,7346.248 3340.9932,7316.247" style="stroke: rgb(210, 64, 109); stroke-width: 22.8569;"/>
+                    <path class="segment" d="M3300.9932,7346.248 3340.9932,7316.247" style="stroke: rgb(212, 62, 105); stroke-width: 22.9492;"/>
                     <g class="arrowheads"/>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s1655">
-                    <path class="segment" d="M3340.9932,7316.247 3380.9932,7286.2476" style="stroke: rgb(210, 64, 109); stroke-width: 22.8569;"/>
+                    <path class="segment" d="M3340.9932,7316.247 3380.9932,7286.2476" style="stroke: rgb(212, 62, 105); stroke-width: 22.9492;"/>
                     <g class="arrowheads"/>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s1656">
-                    <path class="segment" d="M3275.123421974262,7386.43966279771 C3268.743762181733,7370.435884599645 3291.31836865452,7353.504365379893 3300.9932,7346.248" style="stroke: rgb(210, 64, 109); stroke-width: 22.8569;"/>
+                    <path class="segment" d="M3275.0892241988913,7386.353875525396 C3268.743762181733,7370.435884599645 3291.31836865452,7353.504365379893 3300.9932,7346.248" style="stroke: rgb(212, 62, 105); stroke-width: 22.9492;"/>
                     <g class="arrowheads">
-                        <path class="arrowhead" d="M-22.85688745984935,0 L0,22.85688745984935 L22.85688745984935,0 Z" transform="translate(3275.123421974262,7386.43966279771)rotate(338.2660631118664)" style="fill: rgb(210, 64, 109); stroke: rgb(210, 64, 109);"/>
+                        <path class="arrowhead" d="M-22.949239741529155,0 L0,22.949239741529155 L22.949239741529155,0 Z" transform="translate(3275.0892241988913,7386.353875525396)rotate(338.2660631118664)" style="fill: rgb(212, 62, 105); stroke: rgb(212, 62, 105);"/>
                     </g>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s1657">
-                    <path class="segment" d="M3202.8257050802818,7434.051528912277 C3227.4549772246846,7401.403505537054 3278.931733167405,7362.7946516611155 3300.9932,7346.248" style="stroke: rgb(210, 64, 109); stroke-width: 22.8569;"/>
+                    <path class="segment" d="M3202.8813232715343,7433.977802656891 C3227.4549772246846,7401.403505537054 3278.931733167405,7362.7946516611155 3300.9932,7346.248" style="stroke: rgb(212, 62, 105); stroke-width: 22.9492;"/>
                     <g class="arrowheads">
-                        <path class="arrowhead" d="M-22.85688745984935,0 L0,22.85688745984935 L22.85688745984935,0 Z" transform="translate(3202.8257050802818,7434.051528912277)rotate(397.0304584214641)" style="fill: rgb(210, 64, 109); stroke: rgb(210, 64, 109);"/>
+                        <path class="arrowhead" d="M-22.949239741529155,0 L0,22.949239741529155 L22.949239741529155,0 Z" transform="translate(3202.8813232715343,7433.977802656891)rotate(397.0304584214641)" style="fill: rgb(212, 62, 105); stroke: rgb(212, 62, 105);"/>
                     </g>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s1658">
-                    <path class="segment" d="M3380.9932,7286.2476 C3391.859454163825,7278.098072370944 3417.21404721275,7259.082507903145 3402.314119762144,7238.827582566375" style="stroke: rgb(210, 64, 109); stroke-width: 22.8569;"/>
+                    <path class="segment" d="M3380.9932,7286.2476 C3391.859454163825,7278.098072370944 3417.21404721275,7259.082507903145 3402.3688441044833,7238.901974704985" style="stroke: rgb(212, 62, 105); stroke-width: 22.9492;"/>
                     <g class="arrowheads">
-                        <path class="arrowhead" d="M-22.85688745984935,0 L0,22.85688745984935 L22.85688745984935,0 Z" transform="translate(3402.314119762144,7238.827582566375)rotate(143.66105796863485)" style="fill: rgb(255, 255, 255); stroke: rgb(210, 64, 109);"/>
+                        <path class="arrowhead" d="M-22.949239741529155,0 L0,22.949239741529155 L22.949239741529155,0 Z" transform="translate(3402.3688441044833,7238.901974704985)rotate(143.66105796863485)" style="fill: rgb(255, 255, 255); stroke: rgb(212, 62, 105);"/>
                     </g>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s1659">
-                    <path class="segment" d="M3380.9932,7286.2476 C3393.2309678926067,7277.069457647062 3421.785759642023,7255.653792156876 3448.411980874571,7278.407000017115" style="stroke: rgb(210, 64, 109); stroke-width: 22.8569;"/>
+                    <path class="segment" d="M3380.9932,7286.2476 C3393.2309678926067,7277.069457647062 3421.785759642023,7255.653792156876 3448.341771624565,7278.347003307663" style="stroke: rgb(212, 62, 105); stroke-width: 22.9492;"/>
                     <g class="arrowheads">
-                        <path class="arrowhead" d="M-22.85688745984935,0 L0,22.85688745984935 L22.85688745984935,0 Z" transform="translate(3448.411980874571,7278.407000017115)rotate(310.5152590947014)" style="fill: rgb(255, 255, 255); stroke: rgb(210, 64, 109);"/>
+                        <path class="arrowhead" d="M-22.949239741529155,0 L0,22.949239741529155 L22.949239741529155,0 Z" transform="translate(3448.341771624565,7278.347003307663)rotate(310.5152590947014)" style="fill: rgb(255, 255, 255); stroke: rgb(212, 62, 105);"/>
                     </g>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s1660">
-                    <path class="segment" d="M3380.9932,7286.2476 C3418.9407899640137,7257.787476740838 3507.485166546713,7191.3805224694615 3628.159423034347,7187.8108702719155" style="stroke: rgb(210, 64, 109); stroke-width: 22.8569;"/>
+                    <path class="segment" d="M3380.9932,7286.2476 C3418.9407899640137,7257.787476740838 3507.485166546713,7191.3805224694615 3628.067111131641,7187.813600940378" style="stroke: rgb(212, 62, 105); stroke-width: 22.9492;"/>
                     <g class="arrowheads">
-                        <path class="arrowhead" d="M-22.85688745984935,0 L0,22.85688745984935 L22.85688745984935,0 Z" transform="translate(3628.159423034347,7187.8108702719155)rotate(268.30563380216984)" style="fill: rgb(255, 255, 255); stroke: rgb(210, 64, 109);"/>
+                        <path class="arrowhead" d="M-22.949239741529155,0 L0,22.949239741529155 L22.949239741529155,0 Z" transform="translate(3628.067111131641,7187.813600940378)rotate(268.30563380216984)" style="fill: rgb(255, 255, 255); stroke: rgb(212, 62, 105);"/>
                     </g>
                     <g class="stoichiometry-labels"/></g>
             </g>
@@ -590,24 +590,24 @@
             </g>
             <g id="r667187" class="reaction">
                 <g class="reaction-label-group" transform="translate(3880.9912,5246.2495)">
-                    <text class="reaction-label label" visibility="visible">PGM -18.5</text>
+                    <text class="reaction-label label" visibility="visible">PGM -18.6</text>
                     <g class="all-genes-label-group"/></g>
                 <g class="segment-group" id="s1922">
-                    <path class="segment" d="M3870.9912,5321.285787980597 C3870.9912,5358.2495 3870.9912,5316.2495 3870.9912,5256.2495" style="stroke: rgb(254, 1, 2); stroke-width: 24.9637;"/>
+                    <path class="segment" d="M3870.9912,5321.2495 C3870.9912,5358.2495 3870.9912,5316.2495 3870.9912,5256.2495" style="stroke: rgb(255, 0, 0); stroke-width: 25;"/>
                     <g class="arrowheads">
-                        <path class="arrowhead" d="M-24.96371201940247,0 L0,24.96371201940247 L24.96371201940247,0 Z" transform="translate(3870.9912,5321.285787980597)rotate(360)" style="fill: rgb(254, 1, 2); stroke: rgb(254, 1, 2);"/>
+                        <path class="arrowhead" d="M-25,0 L0,25 L25,0 Z" transform="translate(3870.9912,5321.2495)rotate(360)" style="fill: rgb(255, 0, 0); stroke: rgb(255, 0, 0);"/>
                     </g>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s1923">
-                    <path class="segment" d="M3870.9912,5256.2495 C3870.9912,5238.2495 3870.9912,5196.2495 3870.9912,5191.213212019403" style="stroke: rgb(254, 1, 2); stroke-width: 24.9637;"/>
+                    <path class="segment" d="M3870.9912,5256.2495 C3870.9912,5238.2495 3870.9912,5196.2495 3870.9912,5191.2495" style="stroke: rgb(255, 0, 0); stroke-width: 25;"/>
                     <g class="arrowheads">
-                        <path class="arrowhead" d="M-24.96371201940247,0 L0,24.96371201940247 L24.96371201940247,0 Z" transform="translate(3870.9912,5191.213212019403)rotate(180)" style="fill: rgb(255, 255, 255); stroke: rgb(254, 1, 2);"/>
+                        <path class="arrowhead" d="M-25,0 L0,25 L25,0 Z" transform="translate(3870.9912,5191.2495)rotate(180)" style="fill: rgb(255, 255, 255); stroke: rgb(255, 0, 0);"/>
                     </g>
                     <g class="stoichiometry-labels"/></g>
             </g>
             <g id="r667188" class="reaction">
                 <g class="reaction-label-group" transform="translate(3241,8106.2573)">
-                    <text class="reaction-label label" visibility="visible">SUCD2_u6m 0.00</text>
+                    <text class="reaction-label label" visibility="visible">SUCD2_u6m 1.91e-16</text>
                     <g class="all-genes-label-group"/></g>
                 <g class="segment-group" id="s1924">
                     <path class="segment" d="M3251,8216.258 3231,8116.2573" style="stroke: rgb(200, 200, 200); stroke-width: 12;"/>
@@ -618,70 +618,70 @@
                     <g class="arrowheads"/>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s1926">
-                    <path class="segment" d="M3191.391789054251,8417.264526891982 C3275.2175403499205,8337.346549363512 3258.265262104976,8252.584564809054 3251,8216.258" style="stroke: rgb(200, 200, 200); stroke-width: 12;"/>
+                    <path class="segment" d="M3191.3917890542543,8417.264526891979 C3275.2175403499205,8337.346549363512 3258.265262104976,8252.584564809054 3251,8216.258" style="stroke: rgb(200, 200, 200); stroke-width: 12;"/>
                     <g class="arrowheads">
-                        <path class="arrowhead" d="M-12,0 L0,12 L12,0 Z" transform="translate(3191.391789054251,8417.264526891982)rotate(406.3671146571448)" style="fill: rgb(200, 200, 200); stroke: rgb(200, 200, 200);"/>
+                        <path class="arrowhead" d="M-12.000000000004546,0 L0,12.000000000004546 L12.000000000004546,0 Z" transform="translate(3191.3917890542543,8417.264526891979)rotate(406.3671146571448)" style="fill: rgb(255, 255, 255); stroke: rgb(200, 200, 200);"/>
                     </g>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s1927">
-                    <path class="segment" d="M3292.016904883902,8282.694069983549 C3261.423645404583,8268.376591850505 3254.127093621375,8231.89357755515 3251,8216.258" style="stroke: rgb(200, 200, 200); stroke-width: 12;"/>
+                    <path class="segment" d="M3292.0169048838975,8282.694069983547 C3261.423645404583,8268.376591850505 3254.127093621375,8231.89357755515 3251,8216.258" style="stroke: rgb(200, 200, 200); stroke-width: 12;"/>
                     <g class="arrowheads">
-                        <path class="arrowhead" d="M-12,0 L0,12 L12,0 Z" transform="translate(3292.016904883902,8282.694069983549)rotate(295.0793369879368)" style="fill: rgb(200, 200, 200); stroke: rgb(200, 200, 200);"/>
+                        <path class="arrowhead" d="M-12.000000000004546,0 L0,12.000000000004546 L12.000000000004546,0 Z" transform="translate(3292.0169048838975,8282.694069983547)rotate(295.0793369879368)" style="fill: rgb(255, 255, 255); stroke: rgb(200, 200, 200);"/>
                     </g>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s1928">
-                    <path class="segment" d="M3161,8006.2573 C3145.8687754010007,7982.47966134443 3110.562584670002,7926.998504481431 3032.9932717863376,7926.511359856101" style="stroke: rgb(200, 200, 200); stroke-width: 12;"/>
+                    <path class="segment" d="M3161,8006.2573 C3145.8687754010007,7982.47966134443 3110.562584670002,7926.998504481431 3032.993271786342,7926.511359856101" style="stroke: rgb(200, 200, 200); stroke-width: 12;"/>
                     <g class="arrowheads">
-                        <path class="arrowhead" d="M-12,0 L0,12 L12,0 Z" transform="translate(3032.9932717863376,7926.511359856101)rotate(90.35981966417971)" style="fill: rgb(200, 200, 200); stroke: rgb(200, 200, 200);"/>
+                        <path class="arrowhead" d="M-12.000000000004546,0 L0,12.000000000004546 L12.000000000004546,0 Z" transform="translate(3032.993271786342,7926.511359856101)rotate(90.35981966417971)" style="fill: rgb(200, 200, 200); stroke: rgb(200, 200, 200);"/>
                     </g>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s1929">
-                    <path class="segment" d="M3161,8006.2573 C3154.507333131955,7996.054537778787 3139.357777106517,7972.248092595955 3152.861991182544,7952.620092309854" style="stroke: rgb(200, 200, 200); stroke-width: 12;"/>
+                    <path class="segment" d="M3161,8006.2573 C3154.507333131955,7996.054537778787 3139.357777106517,7972.248092595955 3152.8619911825417,7952.620092309858" style="stroke: rgb(200, 200, 200); stroke-width: 12;"/>
                     <g class="arrowheads">
-                        <path class="arrowhead" d="M-12,0 L0,12 L12,0 Z" transform="translate(3152.861991182544,7952.620092309854)rotate(214.52826860536914)" style="fill: rgb(200, 200, 200); stroke: rgb(200, 200, 200);"/>
+                        <path class="arrowhead" d="M-12.000000000004546,0 L0,12.000000000004546 L12.000000000004546,0 Z" transform="translate(3152.8619911825417,7952.620092309858)rotate(214.52826860536914)" style="fill: rgb(200, 200, 200); stroke: rgb(200, 200, 200);"/>
                     </g>
                     <g class="stoichiometry-labels"/></g>
             </g>
             <g id="r667196" class="reaction">
                 <g class="reaction-label-group" transform="translate(3054.2598015625,6845.8203125)">
-                    <text class="reaction-label label" visibility="visible">MDH 3.62</text>
+                    <text class="reaction-label label" visibility="visible">MDH 4.28</text>
                     <g class="all-genes-label-group"/></g>
                 <g class="segment-group" id="s4216">
-                    <path class="segment" d="M3051,6956.2573 3113.600621875,6896.79443359375" style="stroke: rgb(170, 121, 205); stroke-width: 20.973;"/>
+                    <path class="segment" d="M3051,6956.2573 3113.600621875,6896.79443359375" style="stroke: rgb(174, 116, 196); stroke-width: 21.1496;"/>
                     <g class="arrowheads"/>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s4217">
-                    <path class="segment" d="M3113.600621875,6896.79443359375 3180.9932,6856.25" style="stroke: rgb(170, 121, 205); stroke-width: 20.973;"/>
+                    <path class="segment" d="M3113.600621875,6896.79443359375 3180.9932,6856.25" style="stroke: rgb(174, 116, 196); stroke-width: 21.1496;"/>
                     <g class="arrowheads"/>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s4218">
-                    <path class="segment" d="M2990.758362768997,7029.26505174556 C3000.017808604139,7007.253870329369 3035.705342581242,6971.556271098811 3051,6956.2573" style="stroke: rgb(170, 121, 205); stroke-width: 20.973;"/>
+                    <path class="segment" d="M2990.8268516436247,7029.102242753395 C3000.017808604139,7007.253870329369 3035.705342581242,6971.556271098811 3051,6956.2573" style="stroke: rgb(174, 116, 196); stroke-width: 21.1496;"/>
                     <g class="arrowheads">
-                        <path class="arrowhead" d="M-20.973002871689687,0 L0,20.973002871689687 L20.973002871689687,0 Z" transform="translate(2990.758362768997,7029.26505174556)rotate(382.8150345798539)" style="fill: rgb(255, 255, 255); stroke: rgb(170, 121, 205);"/>
+                        <path class="arrowhead" d="M-21.149630994811716,0 L0,21.149630994811716 L21.149630994811716,0 Z" transform="translate(2990.8268516436247,7029.102242753395)rotate(382.8150345798539)" style="fill: rgb(255, 255, 255); stroke: rgb(174, 116, 196);"/>
                     </g>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s4219">
-                    <path class="segment" d="M2999.3042584168697,6980.802471854056 C3018.9889050222628,6988.277423334378 3041.396671506679,6965.863337000314 3051,6956.2573" style="stroke: rgb(170, 121, 205); stroke-width: 20.973;"/>
+                    <path class="segment" d="M2999.469382005515,6980.865175078459 C3018.9889050222628,6988.277423334378 3041.396671506679,6965.863337000314 3051,6956.2573" style="stroke: rgb(174, 116, 196); stroke-width: 21.1496;"/>
                     <g class="arrowheads">
-                        <path class="arrowhead" d="M-20.973002871689687,0 L0,20.973002871689687 L20.973002871689687,0 Z" transform="translate(2999.3042584168697,6980.802471854056)rotate(110.79352789832399)" style="fill: rgb(255, 255, 255); stroke: rgb(170, 121, 205);"/>
+                        <path class="arrowhead" d="M-21.149630994811716,0 L0,21.149630994811716 L21.149630994811716,0 Z" transform="translate(2999.469382005515,6980.865175078459)rotate(110.79352789832399)" style="fill: rgb(255, 255, 255); stroke: rgb(174, 116, 196);"/>
                     </g>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s4220">
-                    <path class="segment" d="M3180.9932,6856.25 C3195.496185667181,6847.185633958012 3229.3364855572713,6826.0354465267055 3261.680002366752,6857.622180725614" style="stroke: rgb(170, 121, 205); stroke-width: 20.973;"/>
+                    <path class="segment" d="M3180.9932,6856.25 C3195.496185667181,6847.185633958012 3229.3364855572713,6826.0354465267055 3261.5536378164925,6857.498772888281" style="stroke: rgb(174, 116, 196); stroke-width: 21.1496;"/>
                     <g class="arrowheads">
-                        <path class="arrowhead" d="M-20.973002871689687,0 L0,20.973002871689687 L20.973002871689687,0 Z" transform="translate(3261.680002366752,6857.622180725614)rotate(314.32178548148715)" style="fill: rgb(170, 121, 205); stroke: rgb(170, 121, 205);"/>
+                        <path class="arrowhead" d="M-21.149630994811716,0 L0,21.149630994811716 L21.149630994811716,0 Z" transform="translate(3261.5536378164925,6857.498772888281)rotate(314.32178548148715)" style="fill: rgb(174, 116, 196); stroke: rgb(174, 116, 196);"/>
                     </g>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s4221">
-                    <path class="segment" d="M3180.9932,6856.25 C3194.5147662946356,6847.799021065853 3226.0650876487853,6828.080070219509 3233.2342889378488,6813.173855677656" style="stroke: rgb(170, 121, 205); stroke-width: 20.973;"/>
+                    <path class="segment" d="M3180.9932,6856.25 C3194.5147662946356,6847.799021065853 3226.0650876487853,6828.080070219509 3233.1577330861965,6813.333030724242" style="stroke: rgb(174, 116, 196); stroke-width: 21.1496;"/>
                     <g class="arrowheads">
-                        <path class="arrowhead" d="M-20.973002871689687,0 L0,20.973002871689687 L20.973002871689687,0 Z" transform="translate(3233.2342889378488,6813.173855677656)rotate(205.68540707731108)" style="fill: rgb(170, 121, 205); stroke: rgb(170, 121, 205);"/>
+                        <path class="arrowhead" d="M-21.149630994811716,0 L0,21.149630994811716 L21.149630994811716,0 Z" transform="translate(3233.1577330861965,6813.333030724242)rotate(205.68540707731108)" style="fill: rgb(174, 116, 196); stroke: rgb(174, 116, 196);"/>
                     </g>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s4222">
-                    <path class="segment" d="M3180.9932,6856.25 C3216.8129803618694,6833.862637273832 3300.3924678728986,6781.625457579438 3411.8808026929137,6812.603275155443" style="stroke: rgb(170, 121, 205); stroke-width: 20.973;"/>
+                    <path class="segment" d="M3180.9932,6856.25 C3216.8129803618694,6833.862637273832 3300.3924678728986,6781.625457579438 3411.710621811473,6812.555989201189" style="stroke: rgb(174, 116, 196); stroke-width: 21.1496;"/>
                     <g class="arrowheads">
-                        <path class="arrowhead" d="M-20.973002871689687,0 L0,20.973002871689687 L20.973002871689687,0 Z" transform="translate(3411.8808026929137,6812.603275155443)rotate(285.5283264469767)" style="fill: rgb(170, 121, 205); stroke: rgb(170, 121, 205);"/>
+                        <path class="arrowhead" d="M-21.149630994811716,0 L0,21.149630994811716 L21.149630994811716,0 Z" transform="translate(3411.710621811473,6812.555989201189)rotate(285.5283264469767)" style="fill: rgb(174, 116, 196); stroke: rgb(174, 116, 196);"/>
                     </g>
                     <g class="stoichiometry-labels"/></g>
             </g>
@@ -733,37 +733,37 @@
             </g>
             <g id="r667213" class="reaction">
                 <g class="reaction-label-group" transform="translate(4450.993,6946.25)">
-                    <text class="reaction-label label" visibility="visible">PPAm 0.0274</text>
+                    <text class="reaction-label label" visibility="visible">PPAm 0.289</text>
                     <g class="all-genes-label-group"/></g>
                 <g class="segment-group" id="s1625">
-                    <path class="segment" d="M4440.993,6956.25 4420.993,6916.249" style="stroke: rgb(150, 150, 255); stroke-width: 20.0073;"/>
+                    <path class="segment" d="M4440.993,6956.25 4420.993,6916.249" style="stroke: rgb(152, 148, 251); stroke-width: 20.0774;"/>
                     <g class="arrowheads"/>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s1626">
-                    <path class="segment" d="M4498.018241288419,7031.030262275962 C4490.202760651596,7021.862194039449 4476.755928195479,7003.933308211835 4470.993,6996.2495" style="stroke: rgb(150, 150, 255); stroke-width: 20.0073;"/>
+                    <path class="segment" d="M4498.018241288419,7031.030262275962 C4490.202760651596,7021.862194039449 4476.755928195479,7003.933308211835 4470.993,6996.2495" style="stroke: rgb(152, 148, 251); stroke-width: 20.0774;"/>
                     <g class="arrowheads"/>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s1627">
-                    <path class="segment" d="M4543.628013843935,7006.173062965266 C4497.993216002909,7032.249338000278 4479.093064800873,7007.049451400083 4470.993,6996.2495" style="stroke: rgb(150, 150, 255); stroke-width: 20.0073;"/>
+                    <path class="segment" d="M4543.628013843935,7006.173062965266 C4497.993216002909,7032.249338000278 4479.093064800873,7007.049451400083 4470.993,6996.2495" style="stroke: rgb(152, 148, 251); stroke-width: 20.0774;"/>
                     <g class="arrowheads"/>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s1628">
-                    <path class="segment" d="M4420.993,6916.249 C4415.884347921574,6906.031440410544 4417.95830036358,6908.779823503895 4410.795265635596,6892.169465330468" style="stroke: rgb(150, 150, 255); stroke-width: 20.0073;"/>
+                    <path class="segment" d="M4420.993,6916.249 C4415.884347921574,6906.031440410544 4417.95830036358,6908.779823503895 4410.823019747285,6892.2338243282165" style="stroke: rgb(152, 148, 251); stroke-width: 20.0774;"/>
                     <g class="arrowheads">
-                        <path class="arrowhead" d="M-20.007269676904954,0 L0,20.007269676904954 L20.007269676904954,0 Z" transform="translate(4410.795265635596,6892.169465330468)rotate(156.6724089606561)" style="fill: rgb(150, 150, 255); stroke: rgb(150, 150, 255);"/>
+                        <path class="arrowhead" d="M-20.077357987677285,0 L0,20.077357987677285 L20.077357987677285,0 Z" transform="translate(4410.823019747285,6892.2338243282165)rotate(156.6724089606561)" style="fill: rgb(152, 148, 251); stroke: rgb(152, 148, 251);"/>
                     </g>
                     <g class="stoichiometry-labels">
-                        <text class="stoichiometry-label" text-anchor="middle" transform="translate(4386.820449410212,6898.05613598131)" style="fill: rgb(150, 150, 255);">2</text>
+                        <text class="stoichiometry-label" text-anchor="middle" transform="translate(4386.820449410212,6898.05613598131)" style="fill: rgb(152, 148, 251);">2</text>
                     </g>
                 </g>
                 <g class="segment-group" id="s1629">
-                    <path class="segment" d="M4420.993,6916.249 C4415.88429947685,6906.031343518674 4396.966439662417,6904.581258343495 4383.8857506616,6905.583677803818" style="stroke: rgb(150, 150, 255); stroke-width: 20.0073;"/>
+                    <path class="segment" d="M4420.993,6916.249 C4415.88429947685,6906.031343518674 4396.966439662417,6904.581258343495 4383.955634070652,6905.5783223910275" style="stroke: rgb(152, 148, 251); stroke-width: 20.0774;"/>
                     <g class="arrowheads">
-                        <path class="arrowhead" d="M-20.007269676904954,0 L0,20.007269676904954 L20.007269676904954,0 Z" transform="translate(4383.8857506616,6905.583677803818)rotate(445.6177868588224)" style="fill: rgb(150, 150, 255); stroke: rgb(150, 150, 255);"/>
+                        <path class="arrowhead" d="M-20.077357987677285,0 L0,20.077357987677285 L20.077357987677285,0 Z" transform="translate(4383.955634070652,6905.5783223910275)rotate(445.6177868588224)" style="fill: rgb(152, 148, 251); stroke: rgb(152, 148, 251);"/>
                     </g>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s3742">
-                    <path class="segment" d="M4470.993,6996.2495 4440.993,6956.25" style="stroke: rgb(150, 150, 255); stroke-width: 20.0073;"/>
+                    <path class="segment" d="M4470.993,6996.2495 4440.993,6956.25" style="stroke: rgb(152, 148, 251); stroke-width: 20.0774;"/>
                     <g class="arrowheads"/>
                     <g class="stoichiometry-labels"/></g>
             </g>
@@ -885,18 +885,18 @@
             </g>
             <g id="r667224" class="reaction">
                 <g class="reaction-label-group" transform="translate(4551,8926.258)">
-                    <text class="reaction-label label" visibility="visible">CO2t -3.77</text>
+                    <text class="reaction-label label" visibility="visible">CO2t -4.17</text>
                     <g class="all-genes-label-group"/></g>
                 <g class="segment-group" id="s4376">
-                    <path class="segment" d="M4583.612186104925,9003.219397990795 C4600.5,9029.75715 4576,8991.2575 4541,8936.258" style="stroke: rgb(171, 120, 203); stroke-width: 21.013;"/>
+                    <path class="segment" d="M4583.555777970301,9003.130757442215 C4600.5,9029.75715 4576,8991.2575 4541,8936.258" style="stroke: rgb(173, 116, 198); stroke-width: 21.1181;"/>
                     <g class="arrowheads">
-                        <path class="arrowhead" d="M-21.01301340495317,0 L0,21.01301340495317 L21.01301340495317,0 Z" transform="translate(4583.612186104925,9003.219397990795)rotate(327.5285717838272)" style="fill: rgb(171, 120, 203); stroke: rgb(171, 120, 203);"/>
+                        <path class="arrowhead" d="M-21.11808016708238,0 L0,21.11808016708238 L21.11808016708238,0 Z" transform="translate(4583.555777970301,9003.130757442215)rotate(327.5285717838272)" style="fill: rgb(173, 116, 198); stroke: rgb(173, 116, 198);"/>
                     </g>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s4377">
-                    <path class="segment" d="M4541,8936.258 C4531.99895,8922.7568 4510.9965,8891.254 4509.290472662129,8888.695030069373" style="stroke: rgb(171, 120, 203); stroke-width: 21.013;"/>
+                    <path class="segment" d="M4541,8936.258 C4531.99895,8922.7568 4510.9965,8891.254 4509.348754336364,8888.782450152607" style="stroke: rgb(173, 116, 198); stroke-width: 21.1181;"/>
                     <g class="arrowheads">
-                        <path class="arrowhead" d="M-21.01301340495317,0 L0,21.01301340495317 L21.01301340495317,0 Z" transform="translate(4509.290472662129,8888.695030069373)rotate(146.30919798431074)" style="fill: rgb(255, 255, 255); stroke: rgb(171, 120, 203);"/>
+                        <path class="arrowhead" d="M-21.11808016708238,0 L0,21.11808016708238 L21.11808016708238,0 Z" transform="translate(4509.348754336364,8888.782450152607)rotate(146.30919798431074)" style="fill: rgb(255, 255, 255); stroke: rgb(173, 116, 198);"/>
                     </g>
                     <g class="stoichiometry-labels"/></g>
             </g>
@@ -905,74 +905,74 @@
                     <text class="reaction-label label" visibility="visible">HEX1 10.0</text>
                     <g class="all-genes-label-group"/></g>
                 <g class="segment-group" id="s4378">
-                    <path class="segment" d="M3870.9932,2602.064673828125 3870.9932,2702.065673828125" style="stroke: rgb(206, 69, 118); stroke-width: 22.6891;"/>
+                    <path class="segment" d="M3870.9932,2602.064673828125 3870.9932,2702.065673828125" style="stroke: rgb(206, 70, 118); stroke-width: 22.6832;"/>
                     <g class="arrowheads"/>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s4379">
-                    <path class="segment" d="M3870.9932,2702.065673828125 3870.9932,2792.064673828125" style="stroke: rgb(206, 69, 118); stroke-width: 22.6891;"/>
+                    <path class="segment" d="M3870.9932,2702.065673828125 3870.9932,2792.064673828125" style="stroke: rgb(206, 70, 118); stroke-width: 22.6832;"/>
                     <g class="arrowheads"/>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s4380">
-                    <path class="segment" d="M3961.012277324557,2532.938017424869 C3870.9932,2536.872649776098 3870.9932,2582.5070666125166 3870.9932,2602.064673828125" style="stroke: rgb(206, 69, 118); stroke-width: 22.6891;"/>
+                    <path class="segment" d="M3961.012277324557,2532.938017424869 C3870.9932,2536.872649776098 3870.9932,2582.5070666125166 3870.9932,2602.064673828125" style="stroke: rgb(206, 70, 118); stroke-width: 22.6832;"/>
                     <g class="arrowheads"/>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s4381">
-                    <path class="segment" d="M3870.9932,2452.064673828125 C3870.9932,2512.064673828125 3870.9932,2575.064673828125 3870.9932,2602.064673828125" style="stroke: rgb(206, 69, 118); stroke-width: 22.6891;"/>
+                    <path class="segment" d="M3870.9932,2452.064673828125 C3870.9932,2512.064673828125 3870.9932,2575.064673828125 3870.9932,2602.064673828125" style="stroke: rgb(206, 70, 118); stroke-width: 22.6832;"/>
                     <g class="arrowheads"/>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s4382">
-                    <path class="segment" d="M3870.9932,2792.064673828125 C3870.9932,2811.274046540423 3870.9932,2856.0959162024533 3813.1481967975806,2865.3330445624097" style="stroke: rgb(206, 69, 118); stroke-width: 22.6891;"/>
+                    <path class="segment" d="M3870.9932,2792.064673828125 C3870.9932,2811.274046540423 3870.9932,2856.0959162024533 3813.1423791987568,2865.3339735606655" style="stroke: rgb(206, 70, 118); stroke-width: 22.6832;"/>
                     <g class="arrowheads">
-                        <path class="arrowhead" d="M-22.68909213809855,0 L0,22.68909213809855 L22.68909213809855,0 Z" transform="translate(3813.1481967975806,2865.3330445624097)rotate(440.9271776753877)" style="fill: rgb(206, 69, 118); stroke: rgb(206, 69, 118);"/>
+                        <path class="arrowhead" d="M-22.68320083146656,0 L0,22.68320083146656 L22.68320083146656,0 Z" transform="translate(3813.1423791987568,2865.3339735606655)rotate(440.9271776753877)" style="fill: rgb(206, 70, 118); stroke: rgb(206, 70, 118);"/>
                     </g>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s4383">
-                    <path class="segment" d="M3870.9932,2792.064673828125 C3870.9932,2835.564673828125 3870.9932,2937.064673828125 3870.9932,3029.375581690026" style="stroke: rgb(206, 69, 118); stroke-width: 22.6891;"/>
+                    <path class="segment" d="M3870.9932,2792.064673828125 C3870.9932,2835.564673828125 3870.9932,2937.064673828125 3870.9932,3029.3814729966584" style="stroke: rgb(206, 70, 118); stroke-width: 22.6832;"/>
                     <g class="arrowheads">
-                        <path class="arrowhead" d="M-22.68909213809855,0 L0,22.68909213809855 L22.68909213809855,0 Z" transform="translate(3870.9932,3029.375581690026)rotate(360)" style="fill: rgb(206, 69, 118); stroke: rgb(206, 69, 118);"/>
+                        <path class="arrowhead" d="M-22.68320083146656,0 L0,22.68320083146656 L22.68320083146656,0 Z" transform="translate(3870.9932,3029.3814729966584)rotate(360)" style="fill: rgb(206, 70, 118); stroke: rgb(206, 70, 118);"/>
                     </g>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s4384">
-                    <path class="segment" d="M3870.9932,2792.064673828125 C3870.9932,2812.466879591228 3870.9932,2860.072026371802 3938.555574874253,2867.4379513097915" style="stroke: rgb(206, 69, 118); stroke-width: 22.6891;"/>
+                    <path class="segment" d="M3870.9932,2792.064673828125 C3870.9932,2812.466879591228 3870.9932,2860.072026371802 3938.561431477189,2867.438589820467" style="stroke: rgb(206, 70, 118); stroke-width: 22.6832;"/>
                     <g class="arrowheads">
-                        <path class="arrowhead" d="M-22.68909213809855,0 L0,22.68909213809855 L22.68909213809855,0 Z" transform="translate(3938.555574874253,2867.4379513097915)rotate(276.2220443532845)" style="fill: rgb(206, 69, 118); stroke: rgb(206, 69, 118);"/>
+                        <path class="arrowhead" d="M-22.68320083146656,0 L0,22.68320083146656 L22.68320083146656,0 Z" transform="translate(3938.561431477189,2867.438589820467)rotate(276.2220443532845)" style="fill: rgb(206, 70, 118); stroke: rgb(206, 70, 118);"/>
                     </g>
                     <g class="stoichiometry-labels"/></g>
             </g>
             <g id="r667226" class="reaction">
                 <g class="reaction-label-group" transform="translate(3620.9932,6956.25)">
-                    <text class="reaction-label label" visibility="visible">OAAt2m 10.9</text>
+                    <text class="reaction-label label" visibility="visible">OAAt2m 11.3</text>
                     <g class="all-genes-label-group"/></g>
                 <g class="segment-group" id="s4385">
-                    <path class="segment" d="M3560.9932,6896.2495 3610.9932,6966.25" style="stroke: rgb(211, 62, 106); stroke-width: 22.918;"/>
+                    <path class="segment" d="M3560.9932,6896.2495 3610.9932,6966.25" style="stroke: rgb(213, 59, 101); stroke-width: 23.0205;"/>
                     <g class="arrowheads"/>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s4386">
-                    <path class="segment" d="M3610.9932,6966.25 3650.9932,7066.2495" style="stroke: rgb(211, 62, 106); stroke-width: 22.918;"/>
+                    <path class="segment" d="M3610.9932,6966.25 3650.9932,7066.2495" style="stroke: rgb(213, 59, 101); stroke-width: 23.0205;"/>
                     <g class="arrowheads"/>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s4387">
-                    <path class="segment" d="M3493.309467958906,6888.0068912306415 C3531.3559197555082,6854.757011284909 3552.1020159266523,6883.801753385473 3560.9932,6896.2495" style="stroke: rgb(211, 62, 106); stroke-width: 22.918;"/>
+                    <path class="segment" d="M3493.3866059750367,6887.9394781170795 C3531.3559197555082,6854.757011284909 3552.1020159266523,6883.801753385473 3560.9932,6896.2495" style="stroke: rgb(213, 59, 101); stroke-width: 23.0205;"/>
                     <g class="arrowheads">
-                        <path class="arrowhead" d="M-22.918036797273167,0 L0,22.918036797273167 L22.918036797273167,0 Z" transform="translate(3493.309467958906,6888.0068912306415)rotate(408.848863043393)" style="fill: rgb(255, 255, 255); stroke: rgb(211, 62, 106);"/>
+                        <path class="arrowhead" d="M-23.020480935283228,0 L0,23.020480935283228 L23.020480935283228,0 Z" transform="translate(3493.3866059750367,6887.9394781170795)rotate(408.848863043393)" style="fill: rgb(255, 255, 255); stroke: rgb(213, 59, 101);"/>
                     </g>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s4939">
-                    <path class="segment" d="M3511.464130897637,6842.155591688516 C3525.518786096489,6846.584965790945 3550.3508758289468,6881.350139737284 3560.9932,6896.2495" style="stroke: rgb(211, 62, 106); stroke-width: 22.918;"/>
+                    <path class="segment" d="M3511.5618376782227,6842.186384324653 C3525.518786096489,6846.584965790945 3550.3508758289468,6881.350139737284 3560.9932,6896.2495" style="stroke: rgb(213, 59, 101); stroke-width: 23.0205;"/>
                     <g class="arrowheads">
-                        <path class="arrowhead" d="M-22.918036797273167,0 L0,22.918036797273167 L22.918036797273167,0 Z" transform="translate(3511.464130897637,6842.155591688516)rotate(107.49242917991198)" style="fill: rgb(255, 255, 255); stroke: rgb(211, 62, 106);"/>
+                        <path class="arrowhead" d="M-23.020480935283228,0 L0,23.020480935283228 L23.020480935283228,0 Z" transform="translate(3511.5618376782227,6842.186384324653)rotate(107.49242917991198)" style="fill: rgb(255, 255, 255); stroke: rgb(213, 59, 101);"/>
                     </g>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s4940">
-                    <path class="segment" d="M3650.9932,7066.2495 C3655.720251958167,7078.067070807268 3666.750039860556,7105.641402690892 3632.406295536622,7114.983915212395" style="stroke: rgb(211, 62, 106); stroke-width: 22.918;"/>
+                    <path class="segment" d="M3650.9932,7066.2495 C3655.720251958167,7078.067070807268 3666.750039860556,7105.641402690892 3632.5051474224765,7114.95702458065" style="stroke: rgb(213, 59, 101); stroke-width: 23.0205;"/>
                     <g class="arrowheads">
-                        <path class="arrowhead" d="M-22.918036797273167,0 L0,22.918036797273167 L22.918036797273167,0 Z" transform="translate(3632.406295536622,7114.983915212395)rotate(434.78209807278125)" style="fill: rgb(211, 62, 106); stroke: rgb(211, 62, 106);"/>
+                        <path class="arrowhead" d="M-23.020480935283228,0 L0,23.020480935283228 L23.020480935283228,0 Z" transform="translate(3632.5051474224765,7114.95702458065)rotate(434.78209807278125)" style="fill: rgb(213, 59, 101); stroke: rgb(213, 59, 101);"/>
                     </g>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s4941">
-                    <path class="segment" d="M3650.9932,7066.2495 C3657.8839220748837,7083.476219053184 3673.962273582946,7123.671896843946 3675.0846136758337,7133.660860639435" style="stroke: rgb(211, 62, 106); stroke-width: 22.918;"/>
+                    <path class="segment" d="M3650.9932,7066.2495 C3657.8839220748837,7083.476219053184 3673.962273582946,7123.671896843946 3675.073175231222,7133.559057086464" style="stroke: rgb(213, 59, 101); stroke-width: 23.0205;"/>
                     <g class="arrowheads">
-                        <path class="arrowhead" d="M-22.918036797273167,0 L0,22.918036797273167 L22.918036797273167,0 Z" transform="translate(3675.0846136758337,7133.660860639435)rotate(353.5892471534477)" style="fill: rgb(211, 62, 106); stroke: rgb(211, 62, 106);"/>
+                        <path class="arrowhead" d="M-23.020480935283228,0 L0,23.020480935283228 L23.020480935283228,0 Z" transform="translate(3675.073175231222,7133.559057086464)rotate(353.5892471534477)" style="fill: rgb(213, 59, 101); stroke: rgb(213, 59, 101);"/>
                     </g>
                     <g class="stoichiometry-labels"/></g>
             </g>
@@ -1169,44 +1169,44 @@
             </g>
             <g id="r669336" class="reaction">
                 <g class="reaction-label-group" transform="translate(4770.14387890625,7121.12010546875)">
-                    <text class="reaction-label label" visibility="visible">ACSm 0.0274</text>
+                    <text class="reaction-label label" visibility="visible">ACSm 0.289</text>
                     <g class="all-genes-label-group"/></g>
                 <g class="segment-group" id="s3276">
-                    <path class="segment" d="M4960.993,7056.2505 4793.79719921875,7069.4223515625" style="stroke: rgb(150, 150, 255); stroke-width: 20.0073;"/>
+                    <path class="segment" d="M4960.993,7056.2505 4793.79719921875,7069.4223515625" style="stroke: rgb(152, 148, 251); stroke-width: 20.0774;"/>
                     <g class="arrowheads"/>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s3277">
-                    <path class="segment" d="M4793.79719921875,7069.4223515625 4580.993,7086.2495" style="stroke: rgb(150, 150, 255); stroke-width: 20.0073;"/>
+                    <path class="segment" d="M4793.79719921875,7069.4223515625 4580.993,7086.2495" style="stroke: rgb(152, 148, 251); stroke-width: 20.0774;"/>
                     <g class="arrowheads"/>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s3278">
-                    <path class="segment" d="M5053.4004714882,7066.736696653555 C5016.044085895361,7046.535926318971 4977.508325768608,7053.336127895692 4960.993,7056.2505" style="stroke: rgb(150, 150, 255); stroke-width: 20.0073;"/>
+                    <path class="segment" d="M5053.4004714882,7066.736696653555 C5016.044085895361,7046.535926318971 4977.508325768608,7053.336127895692 4960.993,7056.2505" style="stroke: rgb(152, 148, 251); stroke-width: 20.0774;"/>
                     <g class="arrowheads"/>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s3279">
-                    <path class="segment" d="M4978.2380160369785,7004.891613198002 C4995.810635394318,7050.106416210623 4971.4382906182955,7054.407274863187 4960.993,7056.2505" style="stroke: rgb(150, 150, 255); stroke-width: 20.0073;"/>
+                    <path class="segment" d="M4978.2380160369785,7004.891613198002 C4995.810635394318,7050.106416210623 4971.4382906182955,7054.407274863187 4960.993,7056.2505" style="stroke: rgb(152, 148, 251); stroke-width: 20.0774;"/>
                     <g class="arrowheads"/>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s3280">
-                    <path class="segment" d="M5089.731321084743,6954.055517118775 C5055.0647471205275,7039.650156812537 4989.214524136159,7051.2703970437615 4960.993,7056.2505" style="stroke: rgb(150, 150, 255); stroke-width: 20.0073;"/>
+                    <path class="segment" d="M5089.731321084743,6954.055517118775 C5055.0647471205275,7039.650156812537 4989.214524136159,7051.2703970437615 4960.993,7056.2505" style="stroke: rgb(152, 148, 251); stroke-width: 20.0774;"/>
                     <g class="arrowheads"/>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s3281">
-                    <path class="segment" d="M4580.993,7086.2495 C4560.100390660676,7086.2495 4511.350968868919,7086.2495 4481.802065230014,7110.7277915012555" style="stroke: rgb(150, 150, 255); stroke-width: 20.0073;"/>
+                    <path class="segment" d="M4580.993,7086.2495 C4560.100390660676,7086.2495 4511.350968868919,7086.2495 4481.8560393041225,7110.683079415295" style="stroke: rgb(152, 148, 251); stroke-width: 20.0774;"/>
                     <g class="arrowheads">
-                        <path class="arrowhead" d="M-20.007269676904954,0 L0,20.007269676904954 L20.007269676904954,0 Z" transform="translate(4481.802065230014,7110.7277915012555)rotate(410.3616727147156)" style="fill: rgb(150, 150, 255); stroke: rgb(150, 150, 255);"/>
+                        <path class="arrowhead" d="M-20.077357987677285,0 L0,20.077357987677285 L20.077357987677285,0 Z" transform="translate(4481.8560393041225,7110.683079415295)rotate(410.3616727147156)" style="fill: rgb(152, 148, 251); stroke: rgb(152, 148, 251);"/>
                     </g>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s3525">
-                    <path class="segment" d="M4580.993,7086.2495 C4568.899687797692,7086.2495 4540.68195932564,7086.2495 4534.83757016927,7078.375538528278" style="stroke: rgb(150, 150, 255); stroke-width: 20.0073;"/>
+                    <path class="segment" d="M4580.993,7086.2495 C4568.899687797692,7086.2495 4540.68195932564,7086.2495 4534.879343218463,7078.43181804203" style="stroke: rgb(152, 148, 251); stroke-width: 20.0774;"/>
                     <g class="arrowheads">
-                        <path class="arrowhead" d="M-20.007269676904954,0 L0,20.007269676904954 L20.007269676904954,0 Z" transform="translate(4534.83757016927,7078.375538528278)rotate(143.41562381031267)" style="fill: rgb(150, 150, 255); stroke: rgb(150, 150, 255);"/>
+                        <path class="arrowhead" d="M-20.077357987677285,0 L0,20.077357987677285 L20.077357987677285,0 Z" transform="translate(4534.879343218463,7078.43181804203)rotate(143.41562381031267)" style="fill: rgb(152, 148, 251); stroke: rgb(152, 148, 251);"/>
                     </g>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s3526">
-                    <path class="segment" d="M4580.993,7086.2495 C4474.493029999974,7086.2495 4225.993099999912,7086.2495 3911.000469676865,7086.249943651717" style="stroke: rgb(150, 150, 255); stroke-width: 20.0073;"/>
+                    <path class="segment" d="M4580.993,7086.2495 C4474.493029999974,7086.2495 4225.993099999912,7086.2495 3911.0705579876376,7086.249943553001" style="stroke: rgb(152, 148, 251); stroke-width: 20.0774;"/>
                     <g class="arrowheads">
-                        <path class="arrowhead" d="M-20.007269676904954,0 L0,20.007269676904954 L20.007269676904954,0 Z" transform="translate(3911.000469676865,7086.249943651717)rotate(449.9999193016962)" style="fill: rgb(150, 150, 255); stroke: rgb(150, 150, 255);"/>
+                        <path class="arrowhead" d="M-20.077357987677285,0 L0,20.077357987677285 L20.077357987677285,0 Z" transform="translate(3911.0705579876376,7086.249943553001)rotate(449.9999193016962)" style="fill: rgb(152, 148, 251); stroke: rgb(152, 148, 251);"/>
                     </g>
                     <g class="stoichiometry-labels"/></g>
             </g>
@@ -1304,44 +1304,44 @@
             </g>
             <g id="r669343" class="reaction">
                 <g class="reaction-label-group" transform="translate(4070.9922,7226.2476)">
-                    <text class="reaction-label label" visibility="visible">CSm 0.243</text>
+                    <text class="reaction-label label" visibility="visible">CSm 0.236</text>
                     <g class="all-genes-label-group"/></g>
                 <g class="segment-group" id="s3235">
-                    <path class="segment" d="M3900.9932,7206.247 4060.9922,7236.2476" style="stroke: rgb(151, 148, 252); stroke-width: 20.0654;"/>
+                    <path class="segment" d="M3900.9932,7206.247 4060.9922,7236.2476" style="stroke: rgb(151, 148, 252); stroke-width: 20.0633;"/>
                     <g class="arrowheads"/>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s3236">
-                    <path class="segment" d="M4060.9922,7236.2476 4200.992,7296.2466" style="stroke: rgb(151, 148, 252); stroke-width: 20.0654;"/>
+                    <path class="segment" d="M4060.9922,7236.2476 4200.992,7296.2466" style="stroke: rgb(151, 148, 252); stroke-width: 20.0633;"/>
                     <g class="arrowheads"/>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s3237">
-                    <path class="segment" d="M3865.5385270348,7105.491791570504 C3840.2073968320315,7194.849362724011 3882.757459049609,7202.8277088172035 3900.9932,7206.247" style="stroke: rgb(151, 148, 252); stroke-width: 20.0654;"/>
+                    <path class="segment" d="M3865.5385270348,7105.491791570504 C3840.2073968320315,7194.849362724011 3882.757459049609,7202.8277088172035 3900.9932,7206.247" style="stroke: rgb(151, 148, 252); stroke-width: 20.0633;"/>
                     <g class="arrowheads"/>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s3238">
-                    <path class="segment" d="M3823.924837566557,7230.993108119698 C3852.591802326783,7197.171499709154 3886.472780698035,7203.524349912746 3900.9932,7206.247" style="stroke: rgb(151, 148, 252); stroke-width: 20.0654;"/>
+                    <path class="segment" d="M3823.924837566557,7230.993108119698 C3852.591802326783,7197.171499709154 3886.472780698035,7203.524349912746 3900.9932,7206.247" style="stroke: rgb(151, 148, 252); stroke-width: 20.0633;"/>
                     <g class="arrowheads"/>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s3239">
-                    <path class="segment" d="M3710.993046195139,7186.151936125447 C3792.4315598925687,7185.891158149695 3868.4247079677707,7200.140247444909 3900.9932,7206.247" style="stroke: rgb(151, 148, 252); stroke-width: 20.0654;"/>
+                    <path class="segment" d="M3710.993046195139,7186.151936125447 C3792.4315598925687,7185.891158149695 3868.4247079677707,7200.140247444909 3900.9932,7206.247" style="stroke: rgb(151, 148, 252); stroke-width: 20.0633;"/>
                     <g class="arrowheads"/>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s3240">
-                    <path class="segment" d="M4200.992,7296.2466 C4215.386228178188,7302.415460930252 4248.972760593957,7316.809469767506 4272.261910014081,7294.172788542992" style="stroke: rgb(151, 148, 252); stroke-width: 20.0654;"/>
+                    <path class="segment" d="M4200.992,7296.2466 C4215.386228178188,7302.415460930252 4248.972760593957,7316.809469767506 4272.263370554727,7294.171368920814" style="stroke: rgb(151, 148, 252); stroke-width: 20.0633;"/>
                     <g class="arrowheads">
-                        <path class="arrowhead" d="M-20.065374399357,0 L0,20.065374399357 L20.065374399357,0 Z" transform="translate(4272.261910014081,7294.172788542992)rotate(225.81394628025603)" style="fill: rgb(151, 148, 252); stroke: rgb(151, 148, 252);"/>
+                        <path class="arrowhead" d="M-20.063337611173385,0 L0,20.063337611173385 L20.063337611173385,0 Z" transform="translate(4272.263370554727,7294.171368920814)rotate(225.81394628025603)" style="fill: rgb(151, 148, 252); stroke: rgb(151, 148, 252);"/>
                     </g>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s3241">
-                    <path class="segment" d="M4200.992,7296.2466 C4222.79163475558,7305.589158244369 4273.657449185265,7327.3884608145645 4296.058453225386,7350.384496526315" style="stroke: rgb(151, 148, 252); stroke-width: 20.0654;"/>
+                    <path class="segment" d="M4200.992,7296.2466 C4222.79163475558,7305.589158244369 4273.657449185265,7327.3884608145645 4296.05987445259,7350.385955505184" style="stroke: rgb(151, 148, 252); stroke-width: 20.0633;"/>
                     <g class="arrowheads">
-                        <path class="arrowhead" d="M-20.065374399357,0 L0,20.065374399357 L20.065374399357,0 Z" transform="translate(4296.058453225386,7350.384496526315)rotate(315.75094877240144)" style="fill: rgb(151, 148, 252); stroke: rgb(151, 148, 252);"/>
+                        <path class="arrowhead" d="M-20.063337611173385,0 L0,20.063337611173385 L20.063337611173385,0 Z" transform="translate(4296.05987445259,7350.385955505184)rotate(315.75094877240144)" style="fill: rgb(151, 148, 252); stroke: rgb(151, 148, 252);"/>
                     </g>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s3242">
-                    <path class="segment" d="M4200.992,7296.2466 C4213.400818139122,7301.564583879472 4242.354727130404,7313.97321293157 4220.8932132719,7351.475220546315" style="stroke: rgb(151, 148, 252); stroke-width: 20.0654;"/>
+                    <path class="segment" d="M4200.992,7296.2466 C4213.400818139122,7301.564583879472 4242.354727130404,7313.97321293157 4220.892201612335,7351.4769883277" style="stroke: rgb(151, 148, 252); stroke-width: 20.0633;"/>
                     <g class="arrowheads">
-                        <path class="arrowhead" d="M-20.065374399357,0 L0,20.065374399357 L20.065374399357,0 Z" transform="translate(4220.8932132719,7351.475220546315)rotate(389.7814874465912)" style="fill: rgb(151, 148, 252); stroke: rgb(151, 148, 252);"/>
+                        <path class="arrowhead" d="M-20.063337611173385,0 L0,20.063337611173385 L20.063337611173385,0 Z" transform="translate(4220.892201612335,7351.4769883277)rotate(389.7814874465912)" style="fill: rgb(151, 148, 252); stroke: rgb(151, 148, 252);"/>
                     </g>
                     <g class="stoichiometry-labels"/></g>
             </g>
@@ -1386,55 +1386,55 @@
             </g>
             <g id="r669348" class="reaction">
                 <g class="reaction-label-group" transform="translate(3735.92724609375,4351.05631640625)">
-                    <text class="reaction-label label" visibility="visible">TPI 9.32</text>
+                    <text class="reaction-label label" visibility="visible">TPI 9.34</text>
                     <g class="all-genes-label-group"/></g>
                 <g class="segment-group" id="s2752">
-                    <path class="segment" d="M3786.695964043545,4294.764139021329 C3791.223388671875,4299.64811328125 3792.312744140625,4299.83268359375 3808.7373046875,4318.97233203125" style="stroke: rgb(203, 75, 127); stroke-width: 22.5072;"/>
+                    <path class="segment" d="M3786.6958124400226,4294.76397547853 C3791.223388671875,4299.64811328125 3792.312744140625,4299.83268359375 3808.7373046875,4318.97233203125" style="stroke: rgb(203, 75, 127); stroke-width: 22.5069;"/>
                     <g class="arrowheads">
-                        <path class="arrowhead" d="M-22.50715765118171,0 L0,22.50715765118171 L22.50715765118171,0 Z" transform="translate(3786.695964043545,4294.764139021329)rotate(137.16960562003155)" style="fill: rgb(255, 255, 255); stroke: rgb(203, 75, 127);"/>
+                        <path class="arrowhead" d="M-22.506934649219275,0 L0,22.506934649219275 L22.506934649219275,0 Z" transform="translate(3786.6958124400226,4294.76397547853)rotate(137.16960562003155)" style="fill: rgb(255, 255, 255); stroke: rgb(203, 75, 127);"/>
                     </g>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s2753">
-                    <path class="segment" d="M3808.7373046875,4318.97233203125 C3817.7359846875,4329.47113203125 3824.298090234375,4343.10798046875 3833.3273664106177,4350.841154951242" style="stroke: rgb(203, 75, 127); stroke-width: 22.5072;"/>
+                    <path class="segment" d="M3808.7373046875,4318.97233203125 C3817.7359846875,4329.47113203125 3824.298090234375,4343.10798046875 3833.3275357838306,4350.841300011884" style="stroke: rgb(203, 75, 127); stroke-width: 22.5069;"/>
                     <g class="arrowheads">
-                        <path class="arrowhead" d="M-22.50715765118171,0 L0,22.50715765118171 L22.50715765118171,0 Z" transform="translate(3833.3273664106177,4350.841154951242)rotate(310.5785885260134)" style="fill: rgb(203, 75, 127); stroke: rgb(203, 75, 127);"/>
+                        <path class="arrowhead" d="M-22.506934649219275,0 L0,22.506934649219275 L22.506934649219275,0 Z" transform="translate(3833.3275357838306,4350.841300011884)rotate(310.5785885260134)" style="fill: rgb(203, 75, 127); stroke: rgb(203, 75, 127);"/>
                     </g>
                     <g class="stoichiometry-labels"/></g>
             </g>
             <g id="r669354" class="reaction">
                 <g class="reaction-label-group" transform="translate(3036.013951953125,7248.0395625)">
-                    <text class="reaction-label label" visibility="visible">MALtm -10.6</text>
+                    <text class="reaction-label label" visibility="visible">MALtm -11.0</text>
                     <g class="all-genes-label-group"/></g>
                 <g class="segment-group" id="s3544">
-                    <path class="segment" d="M2997.60892265625,7203.4472421875 3026.013951953125,7258.0395625" style="stroke: rgb(210, 64, 109); stroke-width: 22.8636;"/>
+                    <path class="segment" d="M2997.60892265625,7203.4472421875 3026.013951953125,7258.0395625" style="stroke: rgb(212, 61, 104); stroke-width: 22.9557;"/>
                     <g class="arrowheads"/>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s3545">
-                    <path class="segment" d="M3026.013951953125,7258.0395625 3070.41068046875,7323.4477421875" style="stroke: rgb(210, 64, 109); stroke-width: 22.8636;"/>
+                    <path class="segment" d="M3026.013951953125,7258.0395625 3070.41068046875,7323.4477421875" style="stroke: rgb(212, 61, 104); stroke-width: 22.9557;"/>
                     <g class="arrowheads"/>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s3546">
-                    <path class="segment" d="M3007.4095904944984,7158.313362068538 C2986.8812099663533,7165.899443194409 2994.390608849281,7192.182902489572 2997.60892265625,7203.4472421875" style="stroke: rgb(210, 64, 109); stroke-width: 22.8636;"/>
+                    <path class="segment" d="M3007.323159939921,7158.3453017141355 C2986.8812099663533,7165.899443194409 2994.390608849281,7192.182902489572 2997.60892265625,7203.4472421875" style="stroke: rgb(212, 61, 104); stroke-width: 22.9557;"/>
                     <g class="arrowheads">
-                        <path class="arrowhead" d="M-22.863596151344776,0 L0,22.863596151344776 L22.863596151344776,0 Z" transform="translate(3007.4095904944984,7158.313362068538)rotate(249.71865472148178)" style="fill: rgb(210, 64, 109); stroke: rgb(210, 64, 109);"/>
+                        <path class="arrowhead" d="M-22.955739418736115,0 L0,22.955739418736115 L22.955739418736115,0 Z" transform="translate(3007.323159939921,7158.3453017141355)rotate(249.71865472148178)" style="fill: rgb(212, 61, 104); stroke: rgb(212, 61, 104);"/>
                     </g>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s3547">
-                    <path class="segment" d="M2975.82873667662,7128.8919735866875 C2978.3516615560357,7156.35774496746 2992.2520079980604,7184.697639115238 2997.60892265625,7203.4472421875" style="stroke: rgb(210, 64, 109); stroke-width: 22.8636;"/>
+                    <path class="segment" d="M2975.8371652017568,7128.983730557483 C2978.3516615560357,7156.35774496746 2992.2520079980604,7184.697639115238 2997.60892265625,7203.4472421875" style="stroke: rgb(212, 61, 104); stroke-width: 22.9557;"/>
                     <g class="arrowheads">
-                        <path class="arrowhead" d="M-22.863596151344776,0 L0,22.863596151344776 L22.863596151344776,0 Z" transform="translate(2975.82873667662,7128.8919735866875)rotate(174.75170655540026)" style="fill: rgb(210, 64, 109); stroke: rgb(210, 64, 109);"/>
+                        <path class="arrowhead" d="M-22.955739418736115,0 L0,22.955739418736115 L22.955739418736115,0 Z" transform="translate(2975.8371652017568,7128.983730557483)rotate(174.75170655540026)" style="fill: rgb(212, 61, 104); stroke: rgb(212, 61, 104);"/>
                     </g>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s3548">
-                    <path class="segment" d="M3070.41068046875,7323.4477421875 C3091.4642740459212,7344.5009146928 3110.1213081478627,7368.410140121832 3145.0071521842665,7430.21230605529" style="stroke: rgb(210, 64, 109); stroke-width: 22.8636;"/>
+                    <path class="segment" d="M3070.41068046875,7323.4477421875 C3091.4642740459212,7344.5009146928 3110.1213081478627,7368.410140121832 3144.961857510301,7430.13206408226" style="stroke: rgb(212, 61, 104); stroke-width: 22.9557;"/>
                     <g class="arrowheads">
-                        <path class="arrowhead" d="M-22.863596151344776,0 L0,22.863596151344776 L22.863596151344776,0 Z" transform="translate(3145.0071521842665,7430.21230605529)rotate(330.55631163472964)" style="fill: rgb(255, 255, 255); stroke: rgb(210, 64, 109);"/>
+                        <path class="arrowhead" d="M-22.955739418736115,0 L0,22.955739418736115 L22.955739418736115,0 Z" transform="translate(3144.961857510301,7430.13206408226)rotate(330.55631163472964)" style="fill: rgb(255, 255, 255); stroke: rgb(212, 61, 104);"/>
                     </g>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s3549">
-                    <path class="segment" d="M3070.41068046875,7323.4477421875 C3081.2274528630787,7334.26429824638 3109.968541574846,7356.351073581686 3125.780508511724,7352.811555980148" style="stroke: rgb(210, 64, 109); stroke-width: 22.8636;"/>
+                    <path class="segment" d="M3070.41068046875,7323.4477421875 C3081.2274528630787,7334.26429824638 3109.968541574846,7356.351073581686 3125.6905905604754,7352.831684163593" style="stroke: rgb(212, 61, 104); stroke-width: 22.9557;"/>
                     <g class="arrowheads">
-                        <path class="arrowhead" d="M-22.863596151344776,0 L0,22.863596151344776 L22.863596151344776,0 Z" transform="translate(3125.780508511724,7352.811555980148)rotate(257.3823167472889)" style="fill: rgb(255, 255, 255); stroke: rgb(210, 64, 109);"/>
+                        <path class="arrowhead" d="M-22.955739418736115,0 L0,22.955739418736115 L22.955739418736115,0 Z" transform="translate(3125.6905905604754,7352.831684163593)rotate(257.3823167472889)" style="fill: rgb(255, 255, 255); stroke: rgb(212, 61, 104);"/>
                     </g>
                     <g class="stoichiometry-labels"/></g>
             </g>
@@ -1699,55 +1699,55 @@
             </g>
             <g id="r669382" class="reaction">
                 <g class="reaction-label-group" transform="translate(5050.993,6706.2495)">
-                    <text class="reaction-label label" visibility="visible">ACtm 0.0274</text>
+                    <text class="reaction-label label" visibility="visible">ACtm 0.289</text>
                     <g class="all-genes-label-group"/></g>
                 <g class="segment-group" id="s3062">
-                    <path class="segment" d="M5033.074834205857,6526.213916848842 C5032.493,6512.249925 5035.993,6596.24975 5040.993,6716.2495" style="stroke: rgb(150, 150, 255); stroke-width: 20.0073;"/>
+                    <path class="segment" d="M5033.07775202648,6526.283944397919 C5032.493,6512.249925 5035.993,6596.24975 5040.993,6716.2495" style="stroke: rgb(152, 148, 251); stroke-width: 20.0774;"/>
                     <g class="arrowheads">
-                        <path class="arrowhead" d="M-20.00726967690495,0 L0,20.00726967690495 L20.00726967690495,0 Z" transform="translate(5033.074834205857,6526.213916848842)rotate(177.61405100462866)" style="fill: rgb(255, 255, 255); stroke: rgb(150, 150, 255);"/>
+                        <path class="arrowhead" d="M-20.077357987677285,0 L0,20.077357987677285 L20.077357987677285,0 Z" transform="translate(5033.07775202648,6526.283944397919)rotate(177.61405100462866)" style="fill: rgb(255, 255, 255); stroke: rgb(152, 148, 251);"/>
                     </g>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s3063">
-                    <path class="segment" d="M5040.993,6716.2495 C5049.993,6747.7495 5070.993,6821.2495 5087.254946471293,6878.166312649523" style="stroke: rgb(150, 150, 255); stroke-width: 20.0073;"/>
+                    <path class="segment" d="M5040.993,6716.2495 C5049.993,6747.7495 5070.993,6821.2495 5087.235691731505,6878.098921060266" style="stroke: rgb(152, 148, 251); stroke-width: 20.0774;"/>
                     <g class="arrowheads">
-                        <path class="arrowhead" d="M-20.00726967690495,0 L0,20.00726967690495 L20.00726967690495,0 Z" transform="translate(5087.254946471293,6878.166312649523)rotate(344.05460409907715)" style="fill: rgb(150, 150, 255); stroke: rgb(150, 150, 255);"/>
+                        <path class="arrowhead" d="M-20.077357987677285,0 L0,20.077357987677285 L20.077357987677285,0 Z" transform="translate(5087.235691731505,6878.098921060266)rotate(344.05460409907715)" style="fill: rgb(152, 148, 251); stroke: rgb(152, 148, 251);"/>
                     </g>
                     <g class="stoichiometry-labels"/></g>
             </g>
             <g id="r669385" class="reaction">
                 <g class="reaction-label-group" transform="translate(4380.993,6726.249)">
-                    <text class="reaction-label label" visibility="visible">PIt2m -7.14</text>
+                    <text class="reaction-label label" visibility="visible">PIt2m -7.87</text>
                     <g class="all-genes-label-group"/></g>
                 <g class="segment-group" id="s3078">
-                    <path class="segment" d="M4370.993,6696.2495 4370.993,6736.249" style="stroke: rgb(190, 92, 157); stroke-width: 21.9192;"/>
+                    <path class="segment" d="M4370.993,6696.2495 4370.993,6736.249" style="stroke: rgb(194, 87, 147); stroke-width: 22.1116;"/>
                     <g class="arrowheads"/>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s3079">
-                    <path class="segment" d="M4370.993,6736.249 4370.993,6766.2505" style="stroke: rgb(190, 92, 157); stroke-width: 21.9192;"/>
+                    <path class="segment" d="M4370.993,6736.249 4370.993,6766.2505" style="stroke: rgb(194, 87, 147); stroke-width: 22.1116;"/>
                     <g class="arrowheads"/>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s3080">
-                    <path class="segment" d="M4370.751048999739,6656.8987255712855 C4370.993,6655.938459327965 4370.993,6684.1561877983895 4370.993,6696.2495" style="stroke: rgb(190, 92, 157); stroke-width: 21.9192;"/>
+                    <path class="segment" d="M4370.704027400842,6657.085347052822 C4370.993,6655.938459327965 4370.993,6684.1561877983895 4370.993,6696.2495" style="stroke: rgb(194, 87, 147); stroke-width: 22.1116;"/>
                     <g class="arrowheads">
-                        <path class="arrowhead" d="M-21.919165674681622,0 L0,21.919165674681622 L21.919165674681622,0 Z" transform="translate(4370.751048999739,6656.8987255712855)rotate(194.1420185167198)" style="fill: rgb(190, 92, 157); stroke: rgb(190, 92, 157);"/>
+                        <path class="arrowhead" d="M-22.111619846197346,0 L0,22.111619846197346 L22.111619846197346,0 Z" transform="translate(4370.704027400842,6657.085347052822)rotate(194.1420185167198)" style="fill: rgb(194, 87, 147); stroke: rgb(194, 87, 147);"/>
                     </g>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s3081">
-                    <path class="segment" d="M4399.0742508133235,6656.063637789078 C4370.993,6655.938459325639 4370.993,6684.156187797692 4370.993,6696.2495" style="stroke: rgb(190, 92, 157); stroke-width: 21.9192;"/>
+                    <path class="segment" d="M4398.881798553936,6656.062779890038 C4370.993,6655.938459325639 4370.993,6684.156187797692 4370.993,6696.2495" style="stroke: rgb(194, 87, 147); stroke-width: 22.1116;"/>
                     <g class="arrowheads">
-                        <path class="arrowhead" d="M-21.919165674681622,0 L0,21.919165674681622 L21.919165674681622,0 Z" transform="translate(4399.0742508133235,6656.063637789078)rotate(270.2554070750705)" style="fill: rgb(190, 92, 157); stroke: rgb(190, 92, 157);"/>
+                        <path class="arrowhead" d="M-22.111619846197346,0 L0,22.111619846197346 L22.111619846197346,0 Z" transform="translate(4398.881798553936,6656.062779890038)rotate(270.2554070750705)" style="fill: rgb(194, 87, 147); stroke: rgb(194, 87, 147);"/>
                     </g>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s3082">
-                    <path class="segment" d="M4370.993,6766.2505 C4370.993,6781.91093821244 4370.993,6818.451960708131 4430.070297797933,6805.335642263609" style="stroke: rgb(190, 92, 157); stroke-width: 21.9192;"/>
+                    <path class="segment" d="M4370.993,6766.2505 C4370.993,6781.91093821244 4370.993,6818.451960708131 4429.8824184682335,6805.377355158567" style="stroke: rgb(194, 87, 147); stroke-width: 22.1116;"/>
                     <g class="arrowheads">
-                        <path class="arrowhead" d="M-21.919165674681622,0 L0,21.919165674681622 L21.919165674681622,0 Z" transform="translate(4430.070297797933,6805.335642263609)rotate(257.48225545230827)" style="fill: rgb(255, 255, 255); stroke: rgb(190, 92, 157);"/>
+                        <path class="arrowhead" d="M-22.111619846197346,0 L0,22.111619846197346 L22.111619846197346,0 Z" transform="translate(4429.8824184682335,6805.377355158567)rotate(257.48225545230827)" style="fill: rgb(255, 255, 255); stroke: rgb(194, 87, 147);"/>
                     </g>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s3377">
-                    <path class="segment" d="M4370.993,6766.2505 C4370.993,6778.619744116179 4370.993,6807.4813137205965 4367.189706745245,6800.108879569487" style="stroke: rgb(190, 92, 157); stroke-width: 21.9192;"/>
+                    <path class="segment" d="M4370.993,6766.2505 C4370.993,6778.619744116179 4370.993,6807.4813137205965 4367.101472602358,6799.937843479252" style="stroke: rgb(194, 87, 147); stroke-width: 22.1116;"/>
                     <g class="arrowheads">
-                        <path class="arrowhead" d="M-21.919165674681622,0 L0,21.919165674681622 L21.919165674681622,0 Z" transform="translate(4367.189706745245,6800.108879569487)rotate(332.71168418856615)" style="fill: rgb(255, 255, 255); stroke: rgb(190, 92, 157);"/>
+                        <path class="arrowhead" d="M-22.111619846197346,0 L0,22.111619846197346 L22.111619846197346,0 Z" transform="translate(4367.101472602358,6799.937843479252)rotate(332.71168418856615)" style="fill: rgb(255, 255, 255); stroke: rgb(194, 87, 147);"/>
                     </g>
                     <g class="stoichiometry-labels"/></g>
             </g>
@@ -1780,7 +1780,7 @@
             </g>
             <g id="r669621" class="reaction">
                 <g class="reaction-label-group" transform="translate(2991,8711.357609375)">
-                    <text class="reaction-label label" visibility="visible">SUCCtm 0.00</text>
+                    <text class="reaction-label label" visibility="visible">SUCCtm 1.91e-16</text>
                     <g class="all-genes-label-group"/></g>
                 <g class="segment-group" id="s770">
                     <path class="segment" d="M2951,8666.257 2981,8636.258" style="stroke: rgb(200, 200, 200); stroke-width: 12;"/>
@@ -1799,15 +1799,15 @@
                     <g class="arrowheads"/>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s774">
-                    <path class="segment" d="M3031,8586.258 C3040.6040632671907,8576.65393673281 3063.0135442239684,8554.244455776032 3091.075548803935,8564.895082699086" style="stroke: rgb(200, 200, 200); stroke-width: 12;"/>
+                    <path class="segment" d="M3031,8586.258 C3040.6040632671907,8576.65393673281 3063.0135442239684,8554.244455776032 3091.0755488039304,8564.895082699086" style="stroke: rgb(200, 200, 200); stroke-width: 12;"/>
                     <g class="arrowheads">
-                        <path class="arrowhead" d="M-12,0 L0,12 L12,0 Z" transform="translate(3091.075548803935,8564.895082699086)rotate(290.7837101071227)" style="fill: rgb(200, 200, 200); stroke: rgb(200, 200, 200);"/>
+                        <path class="arrowhead" d="M-12.000000000004546,0 L0,12.000000000004546 L12.000000000004546,0 Z" transform="translate(3091.0755488039304,8564.895082699086)rotate(290.7837101071227)" style="fill: rgb(200, 200, 200); stroke: rgb(200, 200, 200);"/>
                     </g>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s775">
-                    <path class="segment" d="M3031,8586.258 C3051.2643260963746,8565.993673903626 3098.5477536545814,8518.710246345418 3133.5757137910846,8478.062370785869" style="stroke: rgb(200, 200, 200); stroke-width: 12;"/>
+                    <path class="segment" d="M3031,8586.258 C3051.2643260963746,8565.993673903626 3098.5477536545814,8518.710246345418 3133.5757137910814,8478.062370785872" style="stroke: rgb(200, 200, 200); stroke-width: 12;"/>
                     <g class="arrowheads">
-                        <path class="arrowhead" d="M-12,0 L0,12 L12,0 Z" transform="translate(3133.5757137910846,8478.062370785869)rotate(220.75283913310065)" style="fill: rgb(200, 200, 200); stroke: rgb(200, 200, 200);"/>
+                        <path class="arrowhead" d="M-12.000000000004546,0 L0,12.000000000004546 L12.000000000004546,0 Z" transform="translate(3133.5757137910814,8478.062370785872)rotate(220.75283913310065)" style="fill: rgb(200, 200, 200); stroke: rgb(200, 200, 200);"/>
                     </g>
                     <g class="stoichiometry-labels"/></g>
             </g>
@@ -1846,80 +1846,80 @@
             </g>
             <g id="r669628" class="reaction">
                 <g class="reaction-label-group" transform="translate(5122.5498046875,6287.80729296875)">
-                    <text class="reaction-label label" visibility="visible">ALDD2y 0.0137</text>
+                    <text class="reaction-label label" visibility="visible">ALDD2y 0.275</text>
                     <g class="all-genes-label-group"/></g>
                 <g class="segment-group" id="s1267">
-                    <path class="segment" d="M5121,6186.2573 5090.46484375,6266.257" style="stroke: rgb(150, 150, 255); stroke-width: 20.0036;"/>
+                    <path class="segment" d="M5121,6186.2573 5090.46484375,6266.257" style="stroke: rgb(152, 148, 251); stroke-width: 20.0738;"/>
                     <g class="arrowheads"/>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s1268">
-                    <path class="segment" d="M5090.46484375,6266.257 5061,6336.257" style="stroke: rgb(150, 150, 255); stroke-width: 20.0036;"/>
+                    <path class="segment" d="M5090.46484375,6266.257 5061,6336.257" style="stroke: rgb(152, 148, 251); stroke-width: 20.0738;"/>
                     <g class="arrowheads"/>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s1269">
-                    <path class="segment" d="M5090.694917289006,6149.736976002675 C5135.317905922891,6157.621595538511 5125.295371776868,6177.666588661554 5121,6186.2573" style="stroke: rgb(150, 150, 255); stroke-width: 20.0036;"/>
+                    <path class="segment" d="M5090.694917289006,6149.736976002675 C5135.317905922891,6157.621595538511 5125.295371776868,6177.666588661554 5121,6186.2573" style="stroke: rgb(152, 148, 251); stroke-width: 20.0738;"/>
                     <g class="arrowheads"/>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s1270">
-                    <path class="segment" d="M5176.200554304407,6113.140851184256 C5147.926252171899,6132.404997603094 5129.07787565157,6170.101609280929 5121,6186.2573" style="stroke: rgb(150, 150, 255); stroke-width: 20.0036;"/>
+                    <path class="segment" d="M5176.200554304407,6113.140851184256 C5147.926252171899,6132.404997603094 5129.07787565157,6170.101609280929 5121,6186.2573" style="stroke: rgb(152, 148, 251); stroke-width: 20.0738;"/>
                     <g class="arrowheads"/>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s1523">
-                    <path class="segment" d="M5152.008841567822,6169.956009564447 C5132.400617778768,6163.456149947098 5124.420185333631,6179.41695498413 5121,6186.2573" style="stroke: rgb(150, 150, 255); stroke-width: 20.0036;"/>
+                    <path class="segment" d="M5152.008841567822,6169.956009564447 C5132.400617778768,6163.456149947098 5124.420185333631,6179.41695498413 5121,6186.2573" style="stroke: rgb(152, 148, 251); stroke-width: 20.0738;"/>
                     <g class="arrowheads"/>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s1524">
-                    <path class="segment" d="M5061,6336.257 C5058.235666445569,6345.932167440508 5051.7855548185635,6368.5075581350275 5040.964376030229,6368.02808231388" style="stroke: rgb(150, 150, 255); stroke-width: 20.0036;"/>
+                    <path class="segment" d="M5061,6336.257 C5058.235666445569,6345.932167440508 5051.7855548185635,6368.5075581350275 5041.0345102454985,6368.031189892187" style="stroke: rgb(152, 148, 251); stroke-width: 20.0738;"/>
                     <g class="arrowheads">
-                        <path class="arrowhead" d="M-20.00358760772212,0 L0,20.00358760772212 L20.00358760772212,0 Z" transform="translate(5040.964376030229,6368.02808231388)rotate(92.53706034811805)" style="fill: rgb(150, 150, 255); stroke: rgb(150, 150, 255);"/>
+                        <path class="arrowhead" d="M-20.073790636106796,0 L0,20.073790636106796 L20.073790636106796,0 Z" transform="translate(5041.0345102454985,6368.031189892187)rotate(92.53706034811805)" style="fill: rgb(152, 148, 251); stroke: rgb(152, 148, 251);"/>
                     </g>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s1525">
-                    <path class="segment" d="M5061,6336.257 C5058.361389731138,6345.492135941016 5064.824749624627,6376.505630220055 5076.39882991846,6381.06364483184" style="stroke: rgb(150, 150, 255); stroke-width: 20.0036;"/>
+                    <path class="segment" d="M5061,6336.257 C5058.361389731138,6345.492135941016 5064.824749624627,6376.505630220055 5076.3335095998855,6381.037920890158" style="stroke: rgb(152, 148, 251); stroke-width: 20.0738;"/>
                     <g class="arrowheads">
-                        <path class="arrowhead" d="M-20.00358760772212,0 L0,20.00358760772212 L20.00358760772212,0 Z" transform="translate(5076.39882991846,6381.06364483184)rotate(291.4951279237678)" style="fill: rgb(150, 150, 255); stroke: rgb(150, 150, 255);"/>
+                        <path class="arrowhead" d="M-20.073790636106796,0 L0,20.073790636106796 L20.073790636106796,0 Z" transform="translate(5076.3335095998855,6381.037920890158)rotate(291.4951279237678)" style="fill: rgb(152, 148, 251); stroke: rgb(152, 148, 251);"/>
                     </g>
                     <g class="stoichiometry-labels">
-                        <text class="stoichiometry-label" text-anchor="middle" transform="translate(5094.393913294102,6379.692447669131)" style="fill: rgb(150, 150, 255);">2</text>
+                        <text class="stoichiometry-label" text-anchor="middle" transform="translate(5094.393913294102,6379.692447669131)" style="fill: rgb(152, 148, 251);">2</text>
                     </g>
                 </g>
                 <g class="segment-group" id="s1526">
-                    <path class="segment" d="M5061,6336.257 C5055.100109676715,6356.906616131498 5041.3336989223835,6405.089053771659 5038.1837096792015,6426.766139318434" style="stroke: rgb(150, 150, 255); stroke-width: 20.0036;"/>
+                    <path class="segment" d="M5061,6336.257 C5055.100109676715,6356.906616131498 5041.3336989223835,6405.089053771659 5038.193805146744,6426.696665965777" style="stroke: rgb(152, 148, 251); stroke-width: 20.0738;"/>
                     <g class="arrowheads">
-                        <path class="arrowhead" d="M-20.00358760772212,0 L0,20.00358760772212 L20.00358760772212,0 Z" transform="translate(5038.1837096792015,6426.766139318434)rotate(368.2680203966427)" style="fill: rgb(150, 150, 255); stroke: rgb(150, 150, 255);"/>
+                        <path class="arrowhead" d="M-20.073790636106796,0 L0,20.073790636106796 L20.073790636106796,0 Z" transform="translate(5038.193805146744,6426.696665965777)rotate(368.2680203966427)" style="fill: rgb(152, 148, 251); stroke: rgb(152, 148, 251);"/>
                     </g>
                     <g class="stoichiometry-labels"/></g>
             </g>
             <g id="r669631" class="reaction">
                 <g class="reaction-label-group" transform="translate(4447.8445625,6530.33203125)">
-                    <text class="reaction-label label" visibility="visible">PPA 0.837</text>
+                    <text class="reaction-label label" visibility="visible">PPA 0.813</text>
                     <g class="all-genes-label-group"/></g>
                 <g class="segment-group" id="s2247">
-                    <path class="segment" d="M4458.951984375,6459.3979375 4440.993,6496.25" style="stroke: rgb(155, 143, 244); stroke-width: 20.225;"/>
+                    <path class="segment" d="M4458.951984375,6459.3979375 4440.993,6496.25" style="stroke: rgb(155, 143, 244); stroke-width: 20.218;"/>
                     <g class="arrowheads"/>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s2248">
-                    <path class="segment" d="M4440.993,6496.25 4420.993,6536.2495" style="stroke: rgb(155, 143, 244); stroke-width: 20.225;"/>
+                    <path class="segment" d="M4440.993,6496.25 4420.993,6536.2495" style="stroke: rgb(155, 143, 244); stroke-width: 20.218;"/>
                     <g class="arrowheads"/>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s2249">
-                    <path class="segment" d="M4461.199243966842,6413.4497844198495 C4472.522764388448,6432.532427433101 4466.06701720716,6452.28281572993 4458.951984375,6459.3979375" style="stroke: rgb(155, 143, 244); stroke-width: 20.225;"/>
+                    <path class="segment" d="M4461.199243966842,6413.4497844198495 C4472.522764388448,6432.532427433101 4466.06701720716,6452.28281572993 4458.951984375,6459.3979375" style="stroke: rgb(155, 143, 244); stroke-width: 20.218;"/>
                     <g class="arrowheads"/>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s4204">
-                    <path class="segment" d="M4504.3382102767955,6417.3233002883435 C4479.840655973368,6433.611033705591 4465.743439370135,6452.6063976116775 4458.951984375,6459.3979375" style="stroke: rgb(155, 143, 244); stroke-width: 20.225;"/>
+                    <path class="segment" d="M4504.3382102767955,6417.3233002883435 C4479.840655973368,6433.611033705591 4465.743439370135,6452.6063976116775 4458.951984375,6459.3979375" style="stroke: rgb(155, 143, 244); stroke-width: 20.218;"/>
                     <g class="arrowheads"/>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s4205">
-                    <path class="segment" d="M4420.993,6536.2495 C4414.151872460202,6549.931584051409 4398.189241534004,6581.856446838031 4359.17242750646,6568.914340404707" style="stroke: rgb(155, 143, 244); stroke-width: 20.225;"/>
+                    <path class="segment" d="M4420.993,6536.2495 C4414.151872460202,6549.931584051409 4398.189241534004,6581.856446838031 4359.165772639473,6568.9121329462305" style="stroke: rgb(155, 143, 244); stroke-width: 20.218;"/>
                     <g class="arrowheads">
-                        <path class="arrowhead" d="M-20.225044469922985,0 L0,20.225044469922985 L20.225044469922985,0 Z" transform="translate(4359.17242750646,6568.914340404707)rotate(108.35098604027706)" style="fill: rgb(155, 143, 244); stroke: rgb(155, 143, 244);"/>
+                        <path class="arrowhead" d="M-20.21803304157127,0 L0,20.21803304157127 L20.21803304157127,0 Z" transform="translate(4359.165772639473,6568.9121329462305)rotate(108.35098604027706)" style="fill: rgb(155, 143, 244); stroke: rgb(155, 143, 244);"/>
                     </g>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s4206">
-                    <path class="segment" d="M4420.993,6536.2495 C4414.992909999157,6548.249529999437 4400.992699997188,6576.249599998125 4398.981826981006,6580.271446576401" style="stroke: rgb(155, 143, 244); stroke-width: 20.225;"/>
+                    <path class="segment" d="M4420.993,6536.2495 C4414.992909999157,6548.249529999437 4400.992699997188,6576.249599998125 4398.9786914376355,6580.277717819923" style="stroke: rgb(155, 143, 244); stroke-width: 20.218;"/>
                     <g class="arrowheads">
-                        <path class="arrowhead" d="M-20.225044469922985,0 L0,20.225044469922985 L20.225044469922985,0 Z" transform="translate(4398.981826981006,6580.271446576401)rotate(386.56447821785)" style="fill: rgb(155, 143, 244); stroke: rgb(155, 143, 244);"/>
+                        <path class="arrowhead" d="M-20.21803304157127,0 L0,20.21803304157127 L20.21803304157127,0 Z" transform="translate(4398.9786914376355,6580.277717819923)rotate(386.56447821785)" style="fill: rgb(155, 143, 244); stroke: rgb(155, 143, 244);"/>
                     </g>
                     <g class="stoichiometry-labels">
                         <text class="stoichiometry-label" text-anchor="middle" transform="translate(4405.631171559067,6606.13391101256)" style="fill: rgb(155, 143, 244);">2</text>
@@ -1961,50 +1961,50 @@
             </g>
             <g id="r669646" class="reaction">
                 <g class="reaction-label-group" transform="translate(3630.458287890625,6213.5746953125)">
-                    <text class="reaction-label label" visibility="visible">PC 7.58</text>
+                    <text class="reaction-label label" visibility="visible">PC 7.52</text>
                     <g class="all-genes-label-group"/></g>
                 <g class="segment-group" id="s485">
-                    <path class="segment" d="M3560.9932,6226.25 C3549.5695974593596,6237.673716776666 3522.9145248645323,6264.32905592222 3568.055977809396,6300.128861420187" style="stroke: rgb(193, 89, 151); stroke-width: 22.0378;"/>
+                    <path class="segment" d="M3560.9932,6226.25 C3549.5695974593596,6237.673716776666 3522.9145248645323,6264.32905592222 3568.070673096529,6300.140515640128" style="stroke: rgb(192, 89, 152); stroke-width: 22.019;"/>
                     <g class="arrowheads">
-                        <path class="arrowhead" d="M-22.03777451696309,0 L0,22.03777451696309 L22.03777451696309,0 Z" transform="translate(3568.055977809396,6300.128861420187)rotate(308.4164685713077)" style="fill: rgb(193, 89, 151); stroke: rgb(193, 89, 151);"/>
+                        <path class="arrowhead" d="M-22.01901892296129,0 L0,22.01901892296129 L22.01901892296129,0 Z" transform="translate(3568.070673096529,6300.140515640128)rotate(308.4164685713077)" style="fill: rgb(192, 89, 152); stroke: rgb(192, 89, 152);"/>
                     </g>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s486">
-                    <path class="segment" d="M3560.9932,6226.25 C3449.1509400822465,6319.16272930715 3450.051796498114,6324.573192742581 3459.8585422230685,6774.224097277795" style="stroke: rgb(193, 89, 151); stroke-width: 22.0378;"/>
+                    <path class="segment" d="M3560.9932,6226.25 C3449.1509400822465,6319.16272930715 3450.051796498114,6324.573192742581 3459.858951179462,6774.242848412722" style="stroke: rgb(192, 89, 152); stroke-width: 22.019;"/>
                     <g class="arrowheads">
-                        <path class="arrowhead" d="M-22.03777451696309,0 L0,22.03777451696309 L22.03777451696309,0 Z" transform="translate(3459.8585422230685,6774.224097277795)rotate(358.7505950253317)" style="fill: rgb(193, 89, 151); stroke: rgb(193, 89, 151);"/>
+                        <path class="arrowhead" d="M-22.01901892296129,0 L0,22.01901892296129 L22.01901892296129,0 Z" transform="translate(3459.858951179462,6774.242848412722)rotate(358.7505950253317)" style="fill: rgb(192, 89, 152); stroke: rgb(192, 89, 152);"/>
                     </g>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s487">
-                    <path class="segment" d="M3560.9932,6226.25 C3545.048061006792,6242.195298444598 3507.8427366893075,6279.400994815325 3533.884802476869,6337.851077872816" style="stroke: rgb(193, 89, 151); stroke-width: 22.0378;"/>
+                    <path class="segment" d="M3560.9932,6226.25 C3545.048061006792,6242.195298444598 3507.8427366893075,6279.400994815325 3533.89243556786,6337.868209954659" style="stroke: rgb(192, 89, 152); stroke-width: 22.019;"/>
                     <g class="arrowheads">
-                        <path class="arrowhead" d="M-22.03777451696309,0 L0,22.03777451696309 L22.03777451696309,0 Z" transform="translate(3533.884802476869,6337.851077872816)rotate(335.9849390790482)" style="fill: rgb(193, 89, 151); stroke: rgb(193, 89, 151);"/>
+                        <path class="arrowhead" d="M-22.01901892296129,0 L0,22.01901892296129 L22.01901892296129,0 Z" transform="translate(3533.89243556786,6337.868209954659)rotate(335.9849390790482)" style="fill: rgb(192, 89, 152); stroke: rgb(192, 89, 152);"/>
                     </g>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s488">
-                    <path class="segment" d="M3560.9932,6226.25 C3556.2497835095696,6230.993463924596 3501.01164568294,6254.681663602818 3500.352371675744,6253.705586445503" style="stroke: rgb(193, 89, 151); stroke-width: 22.0378;"/>
+                    <path class="segment" d="M3560.9932,6226.25 C3556.2497835095696,6230.993463924596 3501.01164568294,6254.681663602818 3500.341873814952,6253.690044012452" style="stroke: rgb(192, 89, 152); stroke-width: 22.019;"/>
                     <g class="arrowheads">
-                        <path class="arrowhead" d="M-22.03777451696309,0 L0,22.03777451696309 L22.03777451696309,0 Z" transform="translate(3500.352371675744,6253.705586445503)rotate(145.96363868225785)" style="fill: rgb(193, 89, 151); stroke: rgb(193, 89, 151);"/>
+                        <path class="arrowhead" d="M-22.01901892296129,0 L0,22.01901892296129 L22.01901892296129,0 Z" transform="translate(3500.341873814952,6253.690044012452)rotate(145.96363868225785)" style="fill: rgb(192, 89, 152); stroke: rgb(192, 89, 152);"/>
                     </g>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s1539">
-                    <path class="segment" d="M3680.9932,6116.2495 3610.9932,6176.2495" style="stroke: rgb(193, 89, 151); stroke-width: 22.0378;"/>
+                    <path class="segment" d="M3680.9932,6116.2495 3610.9932,6176.2495" style="stroke: rgb(192, 89, 152); stroke-width: 22.019;"/>
                     <g class="arrowheads"/>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s1540">
-                    <path class="segment" d="M3610.9932,6176.2495 3560.9932,6226.25" style="stroke: rgb(193, 89, 151); stroke-width: 22.0378;"/>
+                    <path class="segment" d="M3610.9932,6176.2495 3560.9932,6226.25" style="stroke: rgb(192, 89, 152); stroke-width: 22.019;"/>
                     <g class="arrowheads"/>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s1541">
-                    <path class="segment" d="M3842.757115727865,6086.113737547705 C3753.5211049748164,6054.0827243073 3702.751571492445,6097.59946729219 3680.9932,6116.2495" style="stroke: rgb(193, 89, 151); stroke-width: 22.0378;"/>
+                    <path class="segment" d="M3842.757115727865,6086.113737547705 C3753.5211049748164,6054.0827243073 3702.751571492445,6097.59946729219 3680.9932,6116.2495" style="stroke: rgb(192, 89, 152); stroke-width: 22.019;"/>
                     <g class="arrowheads"/>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s1542">
-                    <path class="segment" d="M3727.9705529423304,6071.428784028286 C3713.2057295315894,6088.638760401494 3690.6569588594766,6107.966278120448 3680.9932,6116.2495" style="stroke: rgb(193, 89, 151); stroke-width: 22.0378;"/>
+                    <path class="segment" d="M3727.9705529423304,6071.428784028286 C3713.2057295315894,6088.638760401494 3690.6569588594766,6107.966278120448 3680.9932,6116.2495" style="stroke: rgb(192, 89, 152); stroke-width: 22.019;"/>
                     <g class="arrowheads"/>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s1543">
-                    <path class="segment" d="M3657.992340805396,6056.786039996047 C3711.5999769318114,6090.015119772733 3690.1752330795434,6108.37918593182 3680.9932,6116.2495" style="stroke: rgb(193, 89, 151); stroke-width: 22.0378;"/>
+                    <path class="segment" d="M3657.992340805396,6056.786039996047 C3711.5999769318114,6090.015119772733 3690.1752330795434,6108.37918593182 3680.9932,6116.2495" style="stroke: rgb(192, 89, 152); stroke-width: 22.019;"/>
                     <g class="arrowheads"/>
                     <g class="stoichiometry-labels"/></g>
             </g>
@@ -2027,38 +2027,38 @@
             </g>
             <g id="r669654" class="reaction">
                 <g class="reaction-label-group" transform="translate(5191,6616.2573)">
-                    <text class="reaction-label label" visibility="visible">ACt2r -13.2</text>
+                    <text class="reaction-label label" visibility="visible">ACt2r -13.1</text>
                     <g class="all-genes-label-group"/></g>
                 <g class="segment-group" id="s622">
-                    <path class="segment" d="M5211,6656.2573 5181,6626.2573" style="stroke: rgb(224, 44, 75); stroke-width: 23.539;"/>
+                    <path class="segment" d="M5211,6656.2573 5181,6626.2573" style="stroke: rgb(224, 45, 76); stroke-width: 23.5114;"/>
                     <g class="arrowheads"/>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s623">
-                    <path class="segment" d="M5181,6626.2573 5151,6596.257" style="stroke: rgb(224, 44, 75); stroke-width: 23.539;"/>
+                    <path class="segment" d="M5181,6626.2573 5151,6596.257" style="stroke: rgb(224, 45, 76); stroke-width: 23.5114;"/>
                     <g class="arrowheads"/>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s624">
-                    <path class="segment" d="M5243.142082669067,6688.399407164807 C5245.99992500008,6691.25722500008 5221.499977500024,6666.757277500024 5211,6656.2573" style="stroke: rgb(224, 44, 75); stroke-width: 23.539;"/>
+                    <path class="segment" d="M5243.161585880995,6688.418910209563 C5245.99992500008,6691.25722500008 5221.499977500024,6666.757277500024 5211,6656.2573" style="stroke: rgb(224, 45, 76); stroke-width: 23.5114;"/>
                     <g class="arrowheads">
-                        <path class="arrowhead" d="M-23.53895067995819,0 L0,23.53895067995819 L23.53895067995819,0 Z" transform="translate(5243.142082669067,6688.399407164807)rotate(314.99975444613256)" style="fill: rgb(224, 44, 75); stroke: rgb(224, 44, 75);"/>
+                        <path class="arrowhead" d="M-23.51136909134819,0 L0,23.51136909134819 L23.51136909134819,0 Z" transform="translate(5243.161585880995,6688.418910209563)rotate(314.99975444613256)" style="fill: rgb(224, 45, 76); stroke: rgb(224, 45, 76);"/>
                     </g>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s625">
-                    <path class="segment" d="M5237.30724571282,6673.83335002272 C5232.505813167607,6677.763113167607 5217.451743950282,6662.709043950283 5211,6656.2573" style="stroke: rgb(224, 44, 75); stroke-width: 23.539;"/>
+                    <path class="segment" d="M5237.328589812147,6673.81588080825 C5232.505813167607,6677.763113167607 5217.451743950282,6662.709043950283 5211,6656.2573" style="stroke: rgb(224, 45, 76); stroke-width: 23.5114;"/>
                     <g class="arrowheads">
-                        <path class="arrowhead" d="M-23.53895067995819,0 L0,23.53895067995819 L23.53895067995819,0 Z" transform="translate(5237.30724571282,6673.83335002272)rotate(230.7011709184397)" style="fill: rgb(224, 44, 75); stroke: rgb(224, 44, 75);"/>
+                        <path class="arrowhead" d="M-23.51136909134819,0 L0,23.51136909134819 L23.51136909134819,0 Z" transform="translate(5237.328589812147,6673.81588080825)rotate(230.7011709184397)" style="fill: rgb(224, 45, 76); stroke: rgb(224, 45, 76);"/>
                     </g>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s626">
-                    <path class="segment" d="M5151,6596.257 C5144.548288308357,6589.80522379124 5129.49429436119,6574.751079304134 5133.423960209631,6569.9497626619095" style="stroke: rgb(224, 44, 75); stroke-width: 23.539;"/>
+                    <path class="segment" d="M5151,6596.257 C5144.548288308357,6589.80522379124 5129.49429436119,6574.751079304134 5133.441429417619,6569.928418557278" style="stroke: rgb(224, 45, 76); stroke-width: 23.5114;"/>
                     <g class="arrowheads">
-                        <path class="arrowhead" d="M-23.53895067995819,0 L0,23.53895067995819 L23.53895067995819,0 Z" transform="translate(5133.423960209631,6569.9497626619095)rotate(219.2988116810703)" style="fill: rgb(255, 255, 255); stroke: rgb(224, 44, 75);"/>
+                        <path class="arrowhead" d="M-23.51136909134819,0 L0,23.51136909134819 L23.51136909134819,0 Z" transform="translate(5133.441429417619,6569.928418557278)rotate(219.2988116810703)" style="fill: rgb(255, 255, 255); stroke: rgb(224, 45, 76);"/>
                     </g>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s627">
-                    <path class="segment" d="M5151,6596.257 C5132.999040005026,6578.2558599954245 5090.996800016751,6536.25319998475 5068.850944370767,6514.107565795108" style="stroke: rgb(224, 44, 75); stroke-width: 23.539;"/>
+                    <path class="segment" d="M5151,6596.257 C5132.999040005026,6578.2558599954245 5090.996800016751,6536.25319998475 5068.83144114491,6514.088062764282" style="stroke: rgb(224, 45, 76); stroke-width: 23.5114;"/>
                     <g class="arrowheads">
-                        <path class="arrowhead" d="M-23.53895067995819,0 L0,23.53895067995819 L23.53895067995819,0 Z" transform="translate(5068.850944370767,6514.107565795108)rotate(134.99971352253434)" style="fill: rgb(255, 255, 255); stroke: rgb(224, 44, 75);"/>
+                        <path class="arrowhead" d="M-23.51136909134819,0 L0,23.51136909134819 L23.51136909134819,0 Z" transform="translate(5068.83144114491,6514.088062764282)rotate(134.99971352253434)" style="fill: rgb(255, 255, 255); stroke: rgb(224, 45, 76);"/>
                     </g>
                     <g class="stoichiometry-labels"/></g>
             </g>
@@ -2142,7 +2142,7 @@
             </g>
             <g id="r681187" class="reaction">
                 <g class="reaction-label-group" transform="translate(4492.79349296875,3057.629615234375)">
-                    <text class="reaction-label label" visibility="visible">PGL 0.000693</text>
+                    <text class="reaction-label label" visibility="visible">PGL 0.000673</text>
                     <g class="all-genes-label-group"/></g>
                 <g class="segment-group" id="s6857">
                     <path class="segment" d="M4493.6094109375,3082.064673828125 4513.6094109375,3082.064673828125" style="stroke: rgb(150, 150, 255); stroke-width: 20.0001;"/>
@@ -2153,9 +2153,9 @@
                     <g class="arrowheads"/>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s6859">
-                    <path class="segment" d="M4533.6094109375,3082.064673828125 C4565.6094109375,3082.064673828125 4646.13040703125,3082.064673828125 4648.630313854979,3082.064673828125" style="stroke: rgb(150, 150, 255); stroke-width: 20.0001;"/>
+                    <path class="segment" d="M4533.6094109375,3082.064673828125 C4565.6094109375,3082.064673828125 4646.13040703125,3082.064673828125 4648.630316757955,3082.064673828125" style="stroke: rgb(150, 150, 255); stroke-width: 20.0001;"/>
                     <g class="arrowheads">
-                        <path class="arrowhead" d="M-20.00009317627077,0 L0,20.00009317627077 L20.00009317627077,0 Z" transform="translate(4648.630313854979,3082.064673828125)rotate(270)" style="fill: rgb(150, 150, 255); stroke: rgb(150, 150, 255);"/>
+                        <path class="arrowhead" d="M-20.000090273294543,0 L0,20.000090273294543 L20.000090273294543,0 Z" transform="translate(4648.630316757955,3082.064673828125)rotate(270)" style="fill: rgb(150, 150, 255); stroke: rgb(150, 150, 255);"/>
                     </g>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s6860">
@@ -2167,15 +2167,15 @@
                     <g class="arrowheads"/>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s6862">
-                    <path class="segment" d="M4533.6094109375,3082.064673828125 C4569.6094109375,3082.064673828125 4588.6094109375,3061.064673828125 4588.455191782587,3061.148392797935" style="stroke: rgb(150, 150, 255); stroke-width: 20.0001;"/>
+                    <path class="segment" d="M4533.6094109375,3082.064673828125 C4569.6094109375,3082.064673828125 4588.6094109375,3061.064673828125 4588.455194333877,3061.1483914129485" style="stroke: rgb(150, 150, 255); stroke-width: 20.0001;"/>
                     <g class="arrowheads">
-                        <path class="arrowhead" d="M-20.00009317627077,0 L0,20.00009317627077 L20.00009317627077,0 Z" transform="translate(4588.455191782587,3061.148392797935)rotate(241.50436138175502)" style="fill: rgb(150, 150, 255); stroke: rgb(150, 150, 255);"/>
+                        <path class="arrowhead" d="M-20.000090273294543,0 L0,20.000090273294543 L20.000090273294543,0 Z" transform="translate(4588.455194333877,3061.1483914129485)rotate(241.50436138175502)" style="fill: rgb(150, 150, 255); stroke: rgb(150, 150, 255);"/>
                     </g>
                     <g class="stoichiometry-labels"/></g>
             </g>
             <g id="r681188" class="reaction">
                 <g class="reaction-label-group" transform="translate(4833.651403125,3042.064673828125)">
-                    <text class="reaction-label label" visibility="visible">GND 0.000693</text>
+                    <text class="reaction-label label" visibility="visible">GND 0.000673</text>
                     <g class="all-genes-label-group"/></g>
                 <g class="segment-group" id="s6863">
                     <path class="segment" d="M4863.651403125,3082.064673828125 4883.651403125,3082.064673828125" style="stroke: rgb(150, 150, 255); stroke-width: 20.0001;"/>
@@ -2186,9 +2186,9 @@
                     <g class="arrowheads"/>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s6865">
-                    <path class="segment" d="M4903.651403125,3082.064673828125 C4939.651403125,3082.064673828125 4958.651403125,3061.064673828125 4958.497183970087,3061.148392797935" style="stroke: rgb(150, 150, 255); stroke-width: 20.0001;"/>
+                    <path class="segment" d="M4903.651403125,3082.064673828125 C4939.651403125,3082.064673828125 4958.651403125,3061.064673828125 4958.497186521377,3061.1483914129485" style="stroke: rgb(150, 150, 255); stroke-width: 20.0001;"/>
                     <g class="arrowheads">
-                        <path class="arrowhead" d="M-20.00009317627077,0 L0,20.00009317627077 L20.00009317627077,0 Z" transform="translate(4958.497183970087,3061.148392797935)rotate(241.50436138175502)" style="fill: rgb(150, 150, 255); stroke: rgb(150, 150, 255);"/>
+                        <path class="arrowhead" d="M-20.000090273294543,0 L0,20.000090273294543 L20.000090273294543,0 Z" transform="translate(4958.497186521377,3061.1483914129485)rotate(241.50436138175502)" style="fill: rgb(150, 150, 255); stroke: rgb(150, 150, 255);"/>
                     </g>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s6866">
@@ -2200,71 +2200,71 @@
                     <g class="arrowheads"/>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s6868">
-                    <path class="segment" d="M4903.651403125,3082.064673828125 C4939.651403125,3082.064673828125 4958.651403125,3103.064673828125 4958.497183970087,3102.980954858315" style="stroke: rgb(150, 150, 255); stroke-width: 20.0001;"/>
+                    <path class="segment" d="M4903.651403125,3082.064673828125 C4939.651403125,3082.064673828125 4958.651403125,3103.064673828125 4958.497186521377,3102.980956243301" style="stroke: rgb(150, 150, 255); stroke-width: 20.0001;"/>
                     <g class="arrowheads">
-                        <path class="arrowhead" d="M-20.00009317627077,0 L0,20.00009317627077 L20.00009317627077,0 Z" transform="translate(4958.497183970087,3102.980954858315)rotate(298.495638618245)" style="fill: rgb(150, 150, 255); stroke: rgb(150, 150, 255);"/>
+                        <path class="arrowhead" d="M-20.000090273294543,0 L0,20.000090273294543 L20.000090273294543,0 Z" transform="translate(4958.497186521377,3102.980956243301)rotate(298.495638618245)" style="fill: rgb(150, 150, 255); stroke: rgb(150, 150, 255);"/>
                     </g>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s6869">
-                    <path class="segment" d="M4903.651403125,3082.064673828125 C4935.651403125,3082.064673828125 5025.9004265625,3082.064673828125 5028.400333386229,3082.064673828125" style="stroke: rgb(150, 150, 255); stroke-width: 20.0001;"/>
+                    <path class="segment" d="M4903.651403125,3082.064673828125 C4935.651403125,3082.064673828125 5025.9004265625,3082.064673828125 5028.400336289205,3082.064673828125" style="stroke: rgb(150, 150, 255); stroke-width: 20.0001;"/>
                     <g class="arrowheads">
-                        <path class="arrowhead" d="M-20.00009317627077,0 L0,20.00009317627077 L20.00009317627077,0 Z" transform="translate(5028.400333386229,3082.064673828125)rotate(270)" style="fill: rgb(150, 150, 255); stroke: rgb(150, 150, 255);"/>
+                        <path class="arrowhead" d="M-20.000090273294543,0 L0,20.000090273294543 L20.000090273294543,0 Z" transform="translate(5028.400336289205,3082.064673828125)rotate(270)" style="fill: rgb(150, 150, 255); stroke: rgb(150, 150, 255);"/>
                     </g>
                     <g class="stoichiometry-labels"/></g>
             </g>
             <g id="r681189" class="reaction">
                 <g class="reaction-label-group" transform="translate(5021.16751640625,3262.723609375)">
-                    <text class="reaction-label label" visibility="visible">RPE -0.0694</text>
+                    <text class="reaction-label label" visibility="visible">RPE -0.0674</text>
                     <g class="all-genes-label-group"/></g>
                 <g class="segment-group" id="s6870">
-                    <path class="segment" d="M5020.799310638061,3191.256293363642 5011.43704765625,3208.9296640625" style="stroke: rgb(150, 149, 254); stroke-width: 20.0186;"/>
+                    <path class="segment" d="M5020.799310638061,3191.256293363642 5011.43704765625,3208.9296640625" style="stroke: rgb(150, 149, 254); stroke-width: 20.018;"/>
                     <g class="arrowheads"/>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s6871">
-                    <path class="segment" d="M5002.074784674439,3226.603034761358 5011.43704765625,3208.9296640625" style="stroke: rgb(150, 149, 254); stroke-width: 20.0186;"/>
+                    <path class="segment" d="M5002.074784674439,3226.603034761358 5011.43704765625,3208.9296640625" style="stroke: rgb(150, 149, 254); stroke-width: 20.018;"/>
                     <g class="arrowheads"/>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s6872">
-                    <path class="segment" d="M5002.074784674439,3226.603034761358 C4987.09516390354,3254.8804278795374 4976.874059375,3273.077857421875 4953.290495409356,3306.5230258123324" style="stroke: rgb(150, 149, 254); stroke-width: 20.0186;"/>
+                    <path class="segment" d="M5002.074784674439,3226.603034761358 C4987.09516390354,3254.8804278795374 4976.874059375,3273.077857421875 4953.290162097574,3306.523498500374" style="stroke: rgb(150, 149, 254); stroke-width: 20.018;"/>
                     <g class="arrowheads">
-                        <path class="arrowhead" d="M-20.018564354508843,0 L0,20.018564354508843 L20.018564354508843,0 Z" transform="translate(4953.290495409356,3306.5230258123324)rotate(395.1892378971479)" style="fill: rgb(255, 255, 255); stroke: rgb(150, 149, 254);"/>
+                        <path class="arrowhead" d="M-20.017985968194445,0 L0,20.017985968194445 L20.017985968194445,0 Z" transform="translate(4953.290162097574,3306.523498500374)rotate(395.1892378971479)" style="fill: rgb(255, 255, 255); stroke: rgb(150, 149, 254);"/>
                     </g>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s6873">
-                    <path class="segment" d="M5020.799310638061,3191.256293363642 C5041.0490518368715,3154.651659316817 5041.6103875,3150.270484375 5054.654700410029,3126.087364222716" style="stroke: rgb(150, 149, 254); stroke-width: 20.0186;"/>
+                    <path class="segment" d="M5020.799310638061,3191.256293363642 C5041.0490518368715,3154.651659316817 5041.6103875,3150.270484375 5054.654974992141,3126.086855169288" style="stroke: rgb(150, 149, 254); stroke-width: 20.018;"/>
                     <g class="arrowheads">
-                        <path class="arrowhead" d="M-20.018564354508843,0 L0,20.018564354508843 L20.018564354508843,0 Z" transform="translate(5054.654700410029,3126.087364222716)rotate(208.34230945873085)" style="fill: rgb(150, 149, 254); stroke: rgb(150, 149, 254);"/>
+                        <path class="arrowhead" d="M-20.017985968194445,0 L0,20.017985968194445 L20.017985968194445,0 Z" transform="translate(5054.654974992141,3126.086855169288)rotate(208.34230945873085)" style="fill: rgb(150, 149, 254); stroke: rgb(150, 149, 254);"/>
                     </g>
                     <g class="stoichiometry-labels"/></g>
             </g>
             <g id="r681190" class="reaction">
                 <g class="reaction-label-group" transform="translate(5180.0510061121,3222.8418015591055)">
-                    <text class="reaction-label label" visibility="visible">RPI -0.0696</text>
+                    <text class="reaction-label label" visibility="visible">RPI -0.0676</text>
                     <g class="all-genes-label-group"/></g>
                 <g class="segment-group" id="s6874">
-                    <path class="segment" d="M5159.647939074094,3230.3888491091375 5150.0510061121,3212.8418015591055" style="stroke: rgb(150, 149, 254); stroke-width: 20.0186;"/>
+                    <path class="segment" d="M5159.647939074094,3230.3888491091375 5150.0510061121,3212.8418015591055" style="stroke: rgb(150, 149, 254); stroke-width: 20.018;"/>
                     <g class="arrowheads"/>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s6875">
-                    <path class="segment" d="M5140.4540731501065,3195.2947540090718 5150.0510061121,3212.8418015591055" style="stroke: rgb(150, 149, 254); stroke-width: 20.0186;"/>
+                    <path class="segment" d="M5140.4540731501065,3195.2947540090718 5150.0510061121,3212.8418015591055" style="stroke: rgb(150, 149, 254); stroke-width: 20.018;"/>
                     <g class="arrowheads"/>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s6876">
-                    <path class="segment" d="M5159.647939074094,3230.3888491091375 C5181.264750563274,3268.8999162048076 5182.684549167384,3270.8749576586415 5201.527797651655,3302.6005701548625" style="stroke: rgb(150, 149, 254); stroke-width: 20.0186;"/>
+                    <path class="segment" d="M5159.647939074094,3230.3888491091375 C5181.264750563274,3268.8999162048076 5182.684549167384,3270.8749576586415 5201.528093952322,3302.601069024266" style="stroke: rgb(150, 149, 254); stroke-width: 20.018;"/>
                     <g class="arrowheads">
-                        <path class="arrowhead" d="M-20.018623473246162,0 L0,20.018623473246162 L20.018623473246162,0 Z" transform="translate(5201.527797651655,3302.6005701548625)rotate(329.29204490978327)" style="fill: rgb(150, 149, 254); stroke: rgb(150, 149, 254);"/>
+                        <path class="arrowhead" d="M-20.018043245043394,0 L0,20.018043245043394 L20.018043245043394,0 Z" transform="translate(5201.528093952322,3302.601069024266)rotate(329.29204490978327)" style="fill: rgb(150, 149, 254); stroke: rgb(150, 149, 254);"/>
                     </g>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s6877">
-                    <path class="segment" d="M5140.4540731501065,3195.2947540090718 C5125.098980410924,3167.2194779290257 5126.652160895828,3162.680446097697 5104.0886954365205,3124.982916294638" style="stroke: rgb(150, 149, 254); stroke-width: 20.0186;"/>
+                    <path class="segment" d="M5140.4540731501065,3195.2947540090718 C5125.098980410924,3167.2194779290257 5126.652160895828,3162.680446097697 5104.08839744635,3124.9824184325826" style="stroke: rgb(150, 149, 254); stroke-width: 20.018;"/>
                     <g class="arrowheads">
-                        <path class="arrowhead" d="M-20.018623473246162,0 L0,20.018623473246162 L20.018623473246162,0 Z" transform="translate(5104.0886954365205,3124.982916294638)rotate(149.09780749157335)" style="fill: rgb(255, 255, 255); stroke: rgb(150, 149, 254);"/>
+                        <path class="arrowhead" d="M-20.018043245043394,0 L0,20.018043245043394 L20.018043245043394,0 Z" transform="translate(5104.08839744635,3124.9824184325826)rotate(149.09780749157335)" style="fill: rgb(255, 255, 255); stroke: rgb(150, 149, 254);"/>
                     </g>
                     <g class="stoichiometry-labels"/></g>
             </g>
             <g id="r681191" class="reaction">
                 <g class="reaction-label-group" transform="translate(5260.07642911701,3557.8080961225796)">
-                    <text class="reaction-label label" visibility="visible">TKT1 -0.00311</text>
+                    <text class="reaction-label label" visibility="visible">TKT1 -0.00302</text>
                     <g class="all-genes-label-group"/></g>
                 <g class="segment-group" id="s6878">
                     <path class="segment" d="M5229.483232306228,3527.8168951195466 5230.07642911701,3547.8080961225796" style="stroke: rgb(150, 150, 255); stroke-width: 20.0007;"/>
@@ -2275,171 +2275,171 @@
                     <g class="arrowheads"/>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s6880">
-                    <path class="segment" d="M5229.483232306228,3527.8168951195466 C5228.53411740897,3495.8309735146927 5229.11900405475,3439.4416440414043 5228.161754412885,3395.594483590919" style="stroke: rgb(150, 150, 255); stroke-width: 20.0007;"/>
+                    <path class="segment" d="M5229.483232306228,3527.8168951195466 C5228.53411740897,3495.8309735146927 5229.11900405475,3439.4416440414043 5228.16175390716,3395.594460426017" style="stroke: rgb(150, 150, 255); stroke-width: 20.0007;"/>
                     <g class="arrowheads">
-                        <path class="arrowhead" d="M-20.00074369657957,0 L0,20.00074369657957 L20.00074369657957,0 Z" transform="translate(5228.161754412885,3395.594483590919)rotate(178.74934538934627)" style="fill: rgb(150, 150, 255); stroke: rgb(150, 150, 255);"/>
+                        <path class="arrowhead" d="M-20.000720526157806,0 L0,20.000720526157806 L20.000720526157806,0 Z" transform="translate(5228.16175390716,3395.594460426017)rotate(178.74934538934627)" style="fill: rgb(150, 150, 255); stroke: rgb(150, 150, 255);"/>
                     </g>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s6881">
-                    <path class="segment" d="M5229.483232306228,3527.8168951195466 C5228.415478046825,3491.832733314084 5239.219140052056,3343.0722117971086 4974.461872267336,3346.7132853956864" style="stroke: rgb(150, 150, 255); stroke-width: 20.0007;"/>
+                    <path class="segment" d="M5229.483232306228,3527.8168951195466 C5228.415478046825,3491.832733314084 5239.219140052056,3343.0722117971086 4974.461849099104,3346.7132857143074" style="stroke: rgb(150, 150, 255); stroke-width: 20.0007;"/>
                     <g class="arrowheads">
-                        <path class="arrowhead" d="M-20.00074369657957,0 L0,20.00074369657957 L20.00074369657957,0 Z" transform="translate(4974.461872267336,3346.7132853956864)rotate(449.2120896197976)" style="fill: rgb(150, 150, 255); stroke: rgb(150, 150, 255);"/>
+                        <path class="arrowhead" d="M-20.000720526157806,0 L0,20.000720526157806 L20.000720526157806,0 Z" transform="translate(4974.461849099104,3346.7132857143074)rotate(449.2120896197976)" style="fill: rgb(150, 150, 255); stroke: rgb(150, 150, 255);"/>
                     </g>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s6882">
-                    <path class="segment" d="M5230.669625927787,3567.7992971256094 C5246.827223937195,4238.891613227948 5271.234276770806,4409.176215703359 3923.2005781823145,4385.861220063238" style="stroke: rgb(150, 150, 255); stroke-width: 20.0007;"/>
+                    <path class="segment" d="M5230.669625927787,3567.7992971256094 C5246.827223937195,4238.891613227948 5271.234276770806,4409.176215703359 3923.2005550153576,4385.861219662553" style="stroke: rgb(150, 150, 255); stroke-width: 20.0007;"/>
                     <g class="arrowheads">
-                        <path class="arrowhead" d="M-20.00074369657957,0 L0,20.00074369657957 L20.00074369657957,0 Z" transform="translate(3923.2005781823145,4385.861220063238)rotate(90.99086371085014)" style="fill: rgb(255, 255, 255); stroke: rgb(150, 150, 255);"/>
+                        <path class="arrowhead" d="M-20.000720526157806,0 L0,20.000720526157806 L20.000720526157806,0 Z" transform="translate(3923.2005550153576,4385.861219662553)rotate(90.99086371085014)" style="fill: rgb(255, 255, 255); stroke: rgb(150, 150, 255);"/>
                     </g>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s6883">
-                    <path class="segment" d="M5230.669625927787,3567.7992971256094 C5225.711514262545,3605.692689433589 5224.605680673131,3678.6113984388567 4980.705450057214,3677.950285110602" style="stroke: rgb(150, 150, 255); stroke-width: 20.0007;"/>
+                    <path class="segment" d="M5230.669625927787,3567.7992971256094 C5225.711514262545,3605.692689433589 5224.605680673131,3678.6113984388567 4980.705426886877,3677.950285047797" style="stroke: rgb(150, 150, 255); stroke-width: 20.0007;"/>
                     <g class="arrowheads">
-                        <path class="arrowhead" d="M-20.00074369657957,0 L0,20.00074369657957 L20.00074369657957,0 Z" transform="translate(4980.705450057214,3677.950285110602)rotate(90.15530494015601)" style="fill: rgb(255, 255, 255); stroke: rgb(150, 150, 255);"/>
+                        <path class="arrowhead" d="M-20.000720526157806,0 L0,20.000720526157806 L20.000720526157806,0 Z" transform="translate(4980.705426886877,3677.950285047797)rotate(90.15530494015601)" style="fill: rgb(255, 255, 255); stroke: rgb(150, 150, 255);"/>
                     </g>
                     <g class="stoichiometry-labels"/></g>
             </g>
             <g id="r681192" class="reaction">
                 <g class="reaction-label-group" transform="translate(4383.814057578155,3327.8854405871466)">
-                    <text class="reaction-label label" visibility="visible">TKT2 -0.0663</text>
+                    <text class="reaction-label label" visibility="visible">TKT2 -0.0643</text>
                     <g class="all-genes-label-group"/></g>
                 <g class="segment-group" id="s6884">
-                    <path class="segment" d="M4445.717919610241,3349.3011064098264 4425.721284140655,3348.9342687121466" style="stroke: rgb(150, 149, 254); stroke-width: 20.0177;"/>
+                    <path class="segment" d="M4445.717919610241,3349.3011064098264 4425.721284140655,3348.9342687121466" style="stroke: rgb(150, 149, 254); stroke-width: 20.0172;"/>
                     <g class="arrowheads"/>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s6885">
-                    <path class="segment" d="M4405.724648671066,3348.5674310144705 4425.721284140655,3348.9342687121466" style="stroke: rgb(150, 149, 254); stroke-width: 20.0177;"/>
+                    <path class="segment" d="M4405.724648671066,3348.5674310144705 4425.721284140655,3348.9342687121466" style="stroke: rgb(150, 149, 254); stroke-width: 20.0172;"/>
                     <g class="arrowheads"/>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s6886">
-                    <path class="segment" d="M4445.717919610241,3349.3011064098264 C4481.711863455503,3349.9614142656496 4505.8396008503005,3356.6996878683867 4553.726795768914,3486.66059783146" style="stroke: rgb(150, 149, 254); stroke-width: 20.0177;"/>
+                    <path class="segment" d="M4445.717919610241,3349.3011064098264 C4481.711863455503,3349.9614142656496 4505.8396008503005,3356.6996878683867 4553.726986730533,3486.6611160816096" style="stroke: rgb(150, 149, 254); stroke-width: 20.0172;"/>
                     <g class="arrowheads">
-                        <path class="arrowhead" d="M-20.017727481658508,0 L0,20.017727481658508 L20.017727481658508,0 Z" transform="translate(4553.726795768914,3486.66059783146)rotate(339.7724778276097)" style="fill: rgb(150, 149, 254); stroke: rgb(150, 149, 254);"/>
+                        <path class="arrowhead" d="M-20.017175168742096,0 L0,20.017175168742096 L20.017175168742096,0 Z" transform="translate(4553.726986730533,3486.6611160816096)rotate(339.7724778276097)" style="fill: rgb(150, 149, 254); stroke: rgb(150, 149, 254);"/>
                     </g>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s6887">
-                    <path class="segment" d="M4445.717919610241,3349.3011064098264 C4675.991833236583,3348.501083835487 4688.9687859375,3348.91550390625 4874.449163274669,3347.7225482429462" style="stroke: rgb(150, 149, 254); stroke-width: 20.0177;"/>
+                    <path class="segment" d="M4445.717919610241,3349.3011064098264 C4675.991833236583,3348.501083835487 4688.9687859375,3348.91550390625 4874.449715576162,3347.7225446907046" style="stroke: rgb(150, 149, 254); stroke-width: 20.0172;"/>
                     <g class="arrowheads">
-                        <path class="arrowhead" d="M-20.017727481658508,0 L0,20.017727481658508 L20.017727481658508,0 Z" transform="translate(4874.449163274669,3347.7225482429462)rotate(269.6314953464905)" style="fill: rgb(150, 149, 254); stroke: rgb(150, 149, 254);"/>
+                        <path class="arrowhead" d="M-20.017175168742096,0 L0,20.017175168742096 L20.017175168742096,0 Z" transform="translate(4874.449715576162,3347.7225446907046)rotate(269.6314953464905)" style="fill: rgb(150, 149, 254); stroke: rgb(150, 149, 254);"/>
                     </g>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s6888">
-                    <path class="segment" d="M4405.724648671066,3348.5674310144705 C4286.661368888312,3345.8304630023936 4254.89993828125,3347.1161875 3890.471450606525,4338.0527351725" style="stroke: rgb(150, 149, 254); stroke-width: 20.0177;"/>
+                    <path class="segment" d="M4405.724648671066,3348.5674310144705 C4286.661368888312,3345.8304630023936 4254.89993828125,3347.1161875 3890.4712599699733,4338.053253542313" style="stroke: rgb(150, 149, 254); stroke-width: 20.0172;"/>
                     <g class="arrowheads">
-                        <path class="arrowhead" d="M-20.017727481658508,0 L0,20.017727481658508 L20.017727481658508,0 Z" transform="translate(3890.471450606525,4338.0527351725)rotate(380.1915880375385)" style="fill: rgb(255, 255, 255); stroke: rgb(150, 149, 254);"/>
+                        <path class="arrowhead" d="M-20.017175168742096,0 L0,20.017175168742096 L20.017175168742096,0 Z" transform="translate(3890.4712599699733,4338.053253542313)rotate(380.1915880375385)" style="fill: rgb(255, 255, 255); stroke: rgb(150, 149, 254);"/>
                     </g>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s6889">
-                    <path class="segment" d="M4405.724648671066,3348.5674310144705 C3870.164846372856,3349.3752660888053 4404.736608203125,3347.2089609375 3921.0105376957163,3349.1186740873845" style="stroke: rgb(150, 149, 254); stroke-width: 20.0177;"/>
+                    <path class="segment" d="M4405.724648671066,3348.5674310144705 C3870.164846372856,3349.3752660888053 4404.736608203125,3347.2089609375 3921.009985387104,3349.1186762678567" style="stroke: rgb(150, 149, 254); stroke-width: 20.0172;"/>
                     <g class="arrowheads">
-                        <path class="arrowhead" d="M-20.017727481658508,0 L0,20.017727481658508 L20.017727481658508,0 Z" transform="translate(3921.0105376957163,3349.1186740873845)rotate(449.77380186478155)" style="fill: rgb(255, 255, 255); stroke: rgb(150, 149, 254);"/>
+                        <path class="arrowhead" d="M-20.017175168742096,0 L0,20.017175168742096 L20.017175168742096,0 Z" transform="translate(3921.009985387104,3349.1186762678567)rotate(449.77380186478155)" style="fill: rgb(255, 255, 255); stroke: rgb(150, 149, 254);"/>
                     </g>
                     <g class="stoichiometry-labels"/></g>
             </g>
             <g id="r681193" class="reaction">
                 <g class="reaction-label-group" transform="translate(4702.590784200208,3658.5895816216853)">
-                    <text class="reaction-label label" visibility="visible">TALA -9.33</text>
+                    <text class="reaction-label label" visibility="visible">TALA -9.35</text>
                     <g class="all-genes-label-group"/></g>
                 <g class="segment-group" id="s6890">
-                    <path class="segment" d="M4745.802972267112,3678.0166317752555 4725.806604512708,3677.6354800591853" style="stroke: rgb(203, 75, 127); stroke-width: 22.5096;"/>
+                    <path class="segment" d="M4745.802972267112,3678.0166317752555 4725.806604512708,3677.6354800591853" style="stroke: rgb(203, 75, 127); stroke-width: 22.5093;"/>
                     <g class="arrowheads"/>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s6891">
-                    <path class="segment" d="M4705.810236758304,3677.254328343115 4725.806604512708,3677.6354800591853" style="stroke: rgb(203, 75, 127); stroke-width: 22.5096;"/>
+                    <path class="segment" d="M4705.810236758304,3677.254328343115 4725.806604512708,3677.6354800591853" style="stroke: rgb(203, 75, 127); stroke-width: 22.5093;"/>
                     <g class="arrowheads"/>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s6892">
-                    <path class="segment" d="M4705.810236758304,3677.254328343115 C4673.8160483512565,3676.6444855973937 4619.035428421546,3672.8612538458974 4588.135370255479,3583.235633752079" style="stroke: rgb(203, 75, 127); stroke-width: 22.5096;"/>
+                    <path class="segment" d="M4705.810236758304,3677.254328343115 C4673.8160483512565,3676.6444855973937 4619.035428421546,3672.8612538458974 4588.13527295376,3583.2353515284385" style="stroke: rgb(203, 75, 127); stroke-width: 22.5093;"/>
                     <g class="arrowheads">
-                        <path class="arrowhead" d="M-22.50958173360999,0 L0,22.50958173360999 L22.50958173360999,0 Z" transform="translate(4588.135370255479,3583.235633752079)rotate(160.97743817495888)" style="fill: rgb(255, 255, 255); stroke: rgb(203, 75, 127);"/>
+                        <path class="arrowhead" d="M-22.50928320755105,0 L0,22.50928320755105 L22.50928320755105,0 Z" transform="translate(4588.13527295376,3583.2353515284385)rotate(160.97743817495888)" style="fill: rgb(255, 255, 255); stroke: rgb(203, 75, 127);"/>
                     </g>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s6893">
-                    <path class="segment" d="M4745.802972267112,3678.0166317752555 C4974.475633443784,3672.143378692308 5760.226282247083,4282.80466951231 3925.6400623426885,4382.157052495247" style="stroke: rgb(203, 75, 127); stroke-width: 22.5096;"/>
+                    <path class="segment" d="M4745.802972267112,3678.0166317752555 C4974.475633443784,3672.143378692308 5760.226282247083,4282.80466951231 3925.6397642534257,4382.15706863833" style="stroke: rgb(203, 75, 127); stroke-width: 22.5093;"/>
                     <g class="arrowheads">
-                        <path class="arrowhead" d="M-22.50958173360999,0 L0,22.50958173360999 L22.50958173360999,0 Z" transform="translate(3925.6400623426885,4382.157052495247)rotate(446.9001636411746)" style="fill: rgb(203, 75, 127); stroke: rgb(203, 75, 127);"/>
+                        <path class="arrowhead" d="M-22.50928320755105,0 L0,22.50928320755105 L22.50928320755105,0 Z" transform="translate(3925.6397642534257,4382.15706863833)rotate(446.9001636411746)" style="fill: rgb(203, 75, 127); stroke: rgb(203, 75, 127);"/>
                     </g>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s6894">
-                    <path class="segment" d="M4745.802972267112,3678.0166317752555 C4804.380168486659,3678.626474520977 4734.419397481458,3678.1288882623103 4878.195375556332,3677.8987900463394" style="stroke: rgb(203, 75, 127); stroke-width: 22.5096;"/>
+                    <path class="segment" d="M4745.802972267112,3678.0166317752555 C4804.380168486659,3678.626474520977 4734.419397481458,3678.1288882623103 4878.195674082008,3677.8987895685805" style="stroke: rgb(203, 75, 127); stroke-width: 22.5093;"/>
                     <g class="arrowheads">
-                        <path class="arrowhead" d="M-22.50958173360999,0 L0,22.50958173360999 L22.50958173360999,0 Z" transform="translate(4878.195375556332,3677.8987900463394)rotate(269.9083042552061)" style="fill: rgb(203, 75, 127); stroke: rgb(203, 75, 127);"/>
+                        <path class="arrowhead" d="M-22.50928320755105,0 L0,22.50928320755105 L22.50928320755105,0 Z" transform="translate(4878.195674082008,3677.8987895685805)rotate(269.9083042552061)" style="fill: rgb(203, 75, 127); stroke: rgb(203, 75, 127);"/>
                     </g>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s6895">
-                    <path class="segment" d="M4705.810236758304,3677.254328343115 C4590.093129906168,3670.1258196250933 4337.200403340833,3683.0961734185603 3913.688414176262,3379.883684538067" style="stroke: rgb(203, 75, 127); stroke-width: 22.5096;"/>
+                    <path class="segment" d="M4705.810236758304,3677.254328343115 C4590.093129906168,3670.1258196250933 4337.200403340833,3683.0961734185603 3913.6881714465812,3379.883510756279" style="stroke: rgb(203, 75, 127); stroke-width: 22.5093;"/>
                     <g class="arrowheads">
-                        <path class="arrowhead" d="M-22.50958173360999,0 L0,22.50958173360999 L22.50958173360999,0 Z" transform="translate(3913.688414176262,3379.883684538067)rotate(125.60068733589532)" style="fill: rgb(255, 255, 255); stroke: rgb(203, 75, 127);"/>
+                        <path class="arrowhead" d="M-22.50928320755105,0 L0,22.50928320755105 L22.50928320755105,0 Z" transform="translate(3913.6881714465812,3379.883510756279)rotate(125.60068733589532)" style="fill: rgb(255, 255, 255); stroke: rgb(203, 75, 127);"/>
                     </g>
                     <g class="stoichiometry-labels"/></g>
             </g>
             <g id="r681194" class="reaction">
                 <g class="reaction-label-group" transform="translate(4734.676940028604,3903.3107673762806)">
-                    <text class="reaction-label label" visibility="visible">PFK_3 9.33</text>
+                    <text class="reaction-label label" visibility="visible">PFK_3 9.35</text>
                     <g class="all-genes-label-group"/></g>
                 <g class="segment-group" id="s6896">
-                    <path class="segment" d="M4800.2940437578745,3950.4085551890857 4780.301451747354,3950.9528572200306" style="stroke: rgb(203, 75, 127); stroke-width: 22.5087;"/>
+                    <path class="segment" d="M4800.2940437578745,3950.4085551890857 4780.301451747354,3950.9528572200306" style="stroke: rgb(203, 75, 127); stroke-width: 22.5085;"/>
                     <g class="arrowheads"/>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s6897">
-                    <path class="segment" d="M4760.30885973684,3951.4971592509846 4780.301451747354,3950.9528572200306" style="stroke: rgb(203, 75, 127); stroke-width: 22.5087;"/>
+                    <path class="segment" d="M4760.30885973684,3951.4971592509846 4780.301451747354,3950.9528572200306" style="stroke: rgb(203, 75, 127); stroke-width: 22.5085;"/>
                     <g class="arrowheads"/>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s6898">
-                    <path class="segment" d="M4800.2940437578745,3950.4085551890857 C4836.2807093768115,3949.4288115333748 4855.845188919306,3969.9039462150104 4873.519071700853,3978.8844388120237" style="stroke: rgb(203, 75, 127); stroke-width: 22.5087;"/>
+                    <path class="segment" d="M4800.2940437578745,3950.4085551890857 C4836.2807093768115,3949.4288115333748 4855.845188919306,3969.9039462150104 4873.519071700853,3978.8844388120237" style="stroke: rgb(203, 75, 127); stroke-width: 22.5085;"/>
                     <g class="arrowheads"/>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s6899">
-                    <path class="segment" d="M4760.30885973684,3951.4971592509846 C4728.320712520008,3952.3680425005086 4682.837565696078,3953.6063296209186 4682.846307317742,3953.606091628645" style="stroke: rgb(203, 75, 127); stroke-width: 22.5087;"/>
+                    <path class="segment" d="M4760.30885973684,3951.4971592509846 C4728.320712520008,3952.3680425005086 4682.837565696078,3953.6063296209186 4682.846034965997,3953.606099043472" style="stroke: rgb(203, 75, 127); stroke-width: 22.5085;"/>
                     <g class="arrowheads">
-                        <path class="arrowhead" d="M-22.508744860759652,0 L0,22.508744860759652 L22.508744860759652,0 Z" transform="translate(4682.846307317742,3953.606091628645)rotate(448.44049699118324)" style="fill: rgb(203, 75, 127); stroke: rgb(203, 75, 127);"/>
+                        <path class="arrowhead" d="M-22.5084724080987,0 L0,22.5084724080987 L22.5084724080987,0 Z" transform="translate(4682.846034965997,3953.606099043472)rotate(448.44049699118324)" style="fill: rgb(203, 75, 127); stroke: rgb(203, 75, 127);"/>
                     </g>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s6900">
-                    <path class="segment" d="M4800.2940437578745,3950.4085551890857 C4832.282190974707,3949.5376719395626 4939.566218169698,3937.070613508198 4931.729687304612,3707.7972455336153" style="stroke: rgb(203, 75, 127); stroke-width: 22.5087;"/>
+                    <path class="segment" d="M4800.2940437578745,3950.4085551890857 C4832.282190974707,3949.5376719395626 4939.566218169698,3937.070613508198 4931.729687304612,3707.7972455336153" style="stroke: rgb(203, 75, 127); stroke-width: 22.5085;"/>
                     <g class="arrowheads"/>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s6901">
-                    <path class="segment" d="M4760.30885973684,3951.4971592509846 C4724.322194117898,3952.4769029067 4705.900748840404,3973.9862114471453 4708.223980367542,3972.641910261422" style="stroke: rgb(203, 75, 127); stroke-width: 22.5087;"/>
+                    <path class="segment" d="M4760.30885973684,3951.4971592509846 C4724.322194117898,3952.4769029067 4705.900748840404,3973.9862114471453 4708.2237445478295,3972.642046714769" style="stroke: rgb(203, 75, 127); stroke-width: 22.5085;"/>
                     <g class="arrowheads">
-                        <path class="arrowhead" d="M-22.508744860759652,0 L0,22.508744860759652 L22.508744860759652,0 Z" transform="translate(4708.223980367542,3972.641910261422)rotate(419.9448583729404)" style="fill: rgb(203, 75, 127); stroke: rgb(203, 75, 127);"/>
+                        <path class="arrowhead" d="M-22.5084724080987,0 L0,22.5084724080987 L22.5084724080987,0 Z" transform="translate(4708.2237445478295,3972.642046714769)rotate(419.9448583729404)" style="fill: rgb(203, 75, 127); stroke: rgb(203, 75, 127);"/>
                     </g>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s6902">
-                    <path class="segment" d="M4760.30885973684,3951.4971592509846 C4724.322194117898,3952.4769029067 4704.757714575411,3928.1106549438036 4707.150648129294,3929.3265576592053" style="stroke: rgb(203, 75, 127); stroke-width: 22.5087;"/>
+                    <path class="segment" d="M4760.30885973684,3951.4971592509846 C4724.322194117898,3952.4769029067 4704.757714575411,3928.1106549438036 4707.150405234474,3929.32643423895" style="stroke: rgb(203, 75, 127); stroke-width: 22.5085;"/>
                     <g class="arrowheads">
-                        <path class="arrowhead" d="M-22.508744860759652,0 L0,22.508744860759652 L22.508744860759652,0 Z" transform="translate(4707.150648129294,3929.3265576592053)rotate(116.93613560942678)" style="fill: rgb(203, 75, 127); stroke: rgb(203, 75, 127);"/>
+                        <path class="arrowhead" d="M-22.5084724080987,0 L0,22.5084724080987 L22.5084724080987,0 Z" transform="translate(4707.150405234474,3929.32643423895)rotate(116.93613560942678)" style="fill: rgb(203, 75, 127); stroke: rgb(203, 75, 127);"/>
                     </g>
                     <g class="stoichiometry-labels"/></g>
             </g>
             <g id="r681195" class="reaction">
                 <g class="reaction-label-group" transform="translate(4400.149225982198,4011.064998273823)">
-                    <text class="reaction-label label" visibility="visible">FBA3 9.33</text>
+                    <text class="reaction-label label" visibility="visible">FBA3 9.35</text>
                     <g class="all-genes-label-group"/></g>
                 <g class="segment-group" id="s6903">
-                    <path class="segment" d="M4455.176051818448,3954.1956091637257 4435.176081450948,3954.230037336323" style="stroke: rgb(203, 75, 127); stroke-width: 22.5087;"/>
+                    <path class="segment" d="M4455.176051818448,3954.1956091637257 4435.176081450948,3954.230037336323" style="stroke: rgb(203, 75, 127); stroke-width: 22.5085;"/>
                     <g class="arrowheads"/>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s6904">
-                    <path class="segment" d="M4415.176111083448,3954.2644655089207 4435.176081450948,3954.230037336323" style="stroke: rgb(203, 75, 127); stroke-width: 22.5087;"/>
+                    <path class="segment" d="M4415.176111083448,3954.2644655089207 4435.176081450948,3954.230037336323" style="stroke: rgb(203, 75, 127); stroke-width: 22.5085;"/>
                     <g class="arrowheads"/>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s6905">
-                    <path class="segment" d="M4415.176111083448,3954.2644655089207 C4383.176158495443,3954.319550585079 4009.2582038419305,3893.5083964361856 4526.807594382828,3561.920223223709" style="stroke: rgb(203, 75, 127); stroke-width: 22.5087;"/>
+                    <path class="segment" d="M4415.176111083448,3954.2644655089207 C4383.176158495443,3954.319550585079 4009.2582038419305,3893.5083964361856 4526.807823790126,3561.920076244989" style="stroke: rgb(203, 75, 127); stroke-width: 22.5085;"/>
                     <g class="arrowheads">
-                        <path class="arrowhead" d="M-22.50874486075965,0 L0,22.50874486075965 L22.50874486075965,0 Z" transform="translate(4526.807594382828,3561.920223223709)rotate(237.35276223782026)" style="fill: rgb(203, 75, 127); stroke: rgb(203, 75, 127);"/>
+                        <path class="arrowhead" d="M-22.5084724080987,0 L0,22.5084724080987 L22.5084724080987,0 Z" transform="translate(4526.807823790126,3561.920076244989)rotate(237.35276223782026)" style="fill: rgb(203, 75, 127); stroke: rgb(203, 75, 127);"/>
                     </g>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s6906">
-                    <path class="segment" d="M4415.176111083448,3954.2644655089207 C4257.136834268337,3949.9491214018954 4035.141657622823,3945.825008039448 3786.452898306582,4217.523806373402" style="stroke: rgb(203, 75, 127); stroke-width: 22.5087;"/>
+                    <path class="segment" d="M4415.176111083448,3954.2644655089207 C4257.136834268337,3949.9491214018954 4035.141657622823,3945.825008039448 3786.4527143517666,4217.524007348719" style="stroke: rgb(203, 75, 127); stroke-width: 22.5085;"/>
                     <g class="arrowheads">
-                        <path class="arrowhead" d="M-22.50874486075965,0 L0,22.50874486075965 L22.50874486075965,0 Z" transform="translate(3786.452898306582,4217.523806373402)rotate(402.46819481233064)" style="fill: rgb(203, 75, 127); stroke: rgb(203, 75, 127);"/>
+                        <path class="arrowhead" d="M-22.5084724080987,0 L0,22.5084724080987 L22.5084724080987,0 Z" transform="translate(3786.4527143517666,4217.524007348719)rotate(402.46819481233064)" style="fill: rgb(203, 75, 127); stroke: rgb(203, 75, 127);"/>
                     </g>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s6907">
-                    <path class="segment" d="M4455.176051818448,3954.1956091637257 C4537.73870901125,3955.2592792140476 4577.876457640842,3956.4639152834116 4577.867716019177,3956.464153275685" style="stroke: rgb(203, 75, 127); stroke-width: 22.5087;"/>
+                    <path class="segment" d="M4455.176051818448,3954.1956091637257 C4537.73870901125,3955.2592792140476 4577.876457640842,3956.4639152834116 4577.867988370922,3956.464145860858" style="stroke: rgb(203, 75, 127); stroke-width: 22.5085;"/>
                     <g class="arrowheads">
-                        <path class="arrowhead" d="M-22.50874486075965,0 L0,22.50874486075965 L22.50874486075965,0 Z" transform="translate(4577.867716019177,3956.464153275685)rotate(268.4404969911882)" style="fill: rgb(255, 255, 255); stroke: rgb(203, 75, 127);"/>
+                        <path class="arrowhead" d="M-22.5084724080987,0 L0,22.5084724080987 L22.5084724080987,0 Z" transform="translate(4577.867988370922,3956.464145860858)rotate(268.4404969911882)" style="fill: rgb(255, 255, 255); stroke: rgb(203, 75, 127);"/>
                     </g>
                     <g class="stoichiometry-labels"/></g>
             </g>
