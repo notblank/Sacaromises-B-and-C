@@ -223,7 +223,7 @@ El modelo de base de Sacaromises cerevisiae con las reacciones del cuadro:
 
 \subsection{Producción Butirato y Biomasa}
 
-El metabolismo de cada uno de los modelos tiene un flujo que representa la biomasa y otro que representa la producción de butirato que vamos a notar $f_{biomass}$ y $f_{but}$ respectivamente.
+El metabolismo de cada uno de los modelos tiene un flujo que representa la biomasa en unidades $[1/h]$ y otro que representa la producción de butirato en unidades $[mmol/gdcw/h]$ que vamos a notar $f_{biomass}$ y $f_{but}$ respectivamente.
 
 \par
 El primer objetivo es describir la producción teorética de butirato y biomasas para cada modelo. Con este fin resolvemos:
@@ -244,7 +244,24 @@ La función obejetivo $f_{biomass} +  \lambda \ f_{but}$  es una combinación li
 
 \par
 
-Reolviendo el problema~(\ref{eq:prob1}) para $\lambda$ en $[0, 0.07]$ obtenemos los siguientes resultados:
+Resolviendo el problema~(\ref{eq:prob1}) para $\lambda$ en $[0, 0.07]$ obtenemos las curvas de la figura (\ref{fig:paretoCurve}). En una curva cada punto representa un par $(f_{biomass}(\lambda), \ f_{but}(\lambda))$.
+
+
+\begin{figure}[h]\label{fig:paretoCurve}
+  \includegraphics{../plots/lambdaAllModelsAnn.png}
+  \caption{Soluciones de (\ref{eq:prob1}) para $\lambda \in [0, 0.07]$.}
+\end{figure}
+
+Primero se puede notar que para cualquier producción de biomasa fija, los modelos $2$ y $3$ tienen una mayor producción de butirato.
+
+Ademas si vemos los extremos de la curva correspondiente al modelo $2$, podemos notar que es capaz de producir la mayor cantidad de biomasa mientras sigue produciendo butirato y también produce la mayor cantidad de butirato sin dejar de producir biomasa.
+
+\begin{center}
+  ----------------------- FALTA INTUICION BIO -----------------------
+\end{center}
+
+\subsection{Producción en función de $o_2$ y $glucosa$}
+
 
 
 

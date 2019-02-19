@@ -240,4 +240,5 @@ INPUT c:/texlive/2017/texmf-dist/fonts/tfm/public/lm/ec-lmbx12.tfm
 INPUT c:/texlive/2017/texmf-dist/fonts/tfm/public/lm/ec-lmri12.tfm
 INPUT c:/texlive/2017/texmf-dist/fonts/tfm/public/lm/ec-lmr8.tfm
 INPUT c:/texlive/2017/texmf-dist/fonts/tfm/public/lm/ec-lmr6.tfm
+INPUT ../plots/lambdaAllModelsAnn.png
 INPUT report.aux

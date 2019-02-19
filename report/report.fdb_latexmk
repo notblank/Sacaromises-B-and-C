@@ -1,16 +1,17 @@
 # Fdb version 3
-["bibtex report"] 1550180594 "report.aux" "report.bbl" "report" 1550180597
+["bibtex report"] 1550607824 "report.aux" "report.bbl" "report" 1550607829
   "c:/texlive/2017/texmf-dist/bibtex/bst/base/plain.bst" 1506774413 20613 bd3fbfa9f64872b81ac57a0dd2ed855f ""
-  "report.aux" 1550180596 2631 35bf03af9610d815184010ff3f22a88a ""
+  "report.aux" 1550607826 2994 6517a56490d2509398442926cf5a44c9 ""
   "thebibliography.bib" 0 -1 0 ""
   (generated)
-  "report.blg"
   "report.bbl"
-["xdvipdfmx"] 1550180597 "report.xdv" "report.pdf" "report" 1550180597
-  "report.xdv" 1550180596 21564 a6bca0fcf5a7e627420a9294b4dd58d3 "xelatex"
+  "report.blg"
+["xdvipdfmx"] 1550607827 "report.xdv" "report.pdf" "report" 1550607829
+  "report.xdv" 1550607826 23572 d233fee74684b015016d3795e337d3e1 "xelatex"
   (generated)
   "report.pdf"
-["xelatex"] 1550180594 "report.tex" "report.xdv" "report" 1550180597
+["xelatex"] 1550607824 "report.tex" "report.xdv" "report" 1550607829
+  "../plots/lambdaAllModelsAnn.png" 1550606944 331236 d4ae5ef087fecdfc7aa111516515913c ""
   "c:/texlive/2017/texmf-dist/fonts/map/fontname/texfonts.map" 1506776754 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "c:/texlive/2017/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1506784548 1528 7e12f4c0fcf5a072cebdcfbfc610f54c ""
   "c:/texlive/2017/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1506773693 1004 54797486969f23fa377b128694d548df ""
@@ -149,12 +150,12 @@
   "c:/texlive/2017/texmf-dist/tex/latex/url/url.sty" 1506784047 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "c:/texlive/2017/texmf-dist/tex/latex/xcolor/xcolor.sty" 1506784334 55589 34128738f682d033422ca125f82e5d62 ""
   "c:/texlive/2017/texmf-var/web2c/xetex/xelatex.fmt" 1506784699 3704782 a11ea079aacab8633ff92e4f66e20a63 ""
-  "report.aux" 1550180596 2631 35bf03af9610d815184010ff3f22a88a ""
+  "report.aux" 1550607826 2994 6517a56490d2509398442926cf5a44c9 ""
   "report.bbl" 0 -1 0 "bibtex report"
-  "report.out" 1550180596 302 1545445522a1125ad72429fb433ab0a2 ""
-  "report.tex" 1550180593 9242 2be7ca6821c0d85afa0cfe64a2b054f8 ""
+  "report.out" 1550607826 390 56d3d295b54d8da6c028f53fb0c5b24e ""
+  "report.tex" 1550607821 10151 c6b6f8a4ad6fc27664a27d7780ed8c23 ""
   (generated)
-  "report.aux"
   "report.log"
   "report.out"
+  "report.aux"
   "report.xdv"
